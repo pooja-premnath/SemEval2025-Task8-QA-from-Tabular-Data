@@ -1,0 +1,1309 @@
+question,answer,dataset
+Is the person with the highest net worth self-made?,True,001_Forbes
+Does the youngest billionaire identify as male?,True,001_Forbes
+Is the city with the most billionaires in the United States?,True,001_Forbes
+Is there a non-self-made billionaire in the top 5 ranks?,True,001_Forbes
+Does the oldest billionaire have a philanthropy score of 5?,False,001_Forbes
+What is the age of the youngest billionaire?,19.0,001_Forbes
+How many billionaires are there from the 'Technology' category?,343,001_Forbes
+What's the total worth of billionaires in the 'Automotive' category?,583600,001_Forbes
+How many billionaires have a philanthropy score above 3?,25,001_Forbes
+What's the rank of the wealthiest non-self-made billionaire?,3,001_Forbes
+Which category does the richest billionaire belong to?,Automotive,001_Forbes
+What's the country of origin of the oldest billionaire?,United States,001_Forbes
+What's the gender of the billionaire with the highest philanthropy score?,M,001_Forbes
+What's the source of wealth for the youngest billionaire?,drugstores,001_Forbes
+What is the title of the billionaire with the lowest rank?,,001_Forbes
+List the top 3 countries with the most billionaires.,"['United States', 'China', 'India']",001_Forbes
+List the top 5 sources of wealth for billionaires.,"['real estate', 'investments', 'pharmaceuticals', 'diversified', 'software']",001_Forbes
+List the top 4 cities where the youngest billionaires live.,"['', 'Los Angeles', 'Jiaozuo', 'Oslo']",001_Forbes
+List the bottom 3 categories with the fewest billionaires.,"['Logistics', 'Sports', 'Gambling & Casinos']",001_Forbes
+List the bottom 2 countries with the least number of billionaires.,"['Colombia', 'Andorra']",001_Forbes
+List the top 5 ranks of billionaires who are not self-made.,"[3, 10, 14, 16, 18]",001_Forbes
+List the bottom 3 ages of billionaires who have a philanthropy score of 5.,"[48.0, 83.0, 83.0]",001_Forbes
+List the top 6 final worth values of billionaires in the 'Technology' category.,"[171000, 129000, 111000, 107000, 106000, 91400]",001_Forbes
+List the top 4 ranks of female billionaires.,"[14, 18, 21, 30]",001_Forbes
+List the top 2 final worth values of billionaires in the 'Automotive' category.,"[219000, 44800]",001_Forbes
+Did any children below the age of 18 survive?,True,002_Titanic
+Were there any passengers who paid a fare of more than $500?,True,002_Titanic
+Is every passenger's name unique?,True,002_Titanic
+Were there any female passengers in the 3rd class who survived?,True,002_Titanic
+How many unique passenger classes are present in the dataset?,3,002_Titanic
+What's the maximum age of the passengers?,80.0,002_Titanic
+How many passengers boarded without any siblings or spouses?,604,002_Titanic
+"On average, how much fare did the passengers pay?",32.31,002_Titanic
+Which passenger class has the highest number of survivors?,1,002_Titanic
+What's the most common gender among the survivors?,female,002_Titanic
+"Among those who survived, which fare range was the most common: (0-50, 50-100, 100-150, 150+)?",0-50,002_Titanic
+"What's the most common age range among passengers: (0-18, 18-30, 30-50, 50+)?",18-30,002_Titanic
+Name the top 3 passenger classes by survival rate.,"[1, 2, 3]",002_Titanic
+"Could you list the lower 3 fare ranges by number of survivors: (0-50, 50-100, 100-150, 150+)?","['50-100', '150+', '100-150']",002_Titanic
+"What are the top 4 age ranges('30-50', '18-30', '0-18', '50+') with the highest number of survivors?","['30-50', '18-30', '0-18', '50+']",002_Titanic
+What are the top 2 genders by average fare paid?,"['female', 'male']",002_Titanic
+What are the oldest 3 ages among the survivors?,"[80, 63, 63]",002_Titanic
+Which are the top 4 fares paid by survivors?,"[512.329, 512.329, 512.329, 263]",002_Titanic
+Could you list the youngest 3 ages among the survivors?,"[1, 1, 1]",002_Titanic
+Which are the lowest 4 fares among those who didn't survive?,"[0, 0, 0, 0]",002_Titanic
+Is the average age of the respondents above 30?,True,003_Love
+Are there more single individuals than married ones in the dataset?,True,003_Love
+Do the majority of respondents have a height greater than 170 cm?,True,003_Love
+Is the most frequent hair color black?,False,003_Love
+How many unique nationalities are present in the dataset?,13,003_Love
+What is the average gross annual salary?,56332.81720430108,003_Love
+How many respondents wear glasses all the time?,98,003_Love
+What's the median age of the respondents?,33.0,003_Love
+What is the most common level of studies achieved?,Master,003_Love
+Which body complexity has the least number of respondents?,Very thin,003_Love
+What's the most frequent eye color?,Brown,003_Love
+Which sexual orientation has the highest representation?,Heterosexual,003_Love
+List the top 3 most common areas of knowledge.,"['[Computer Science]', '[Business]', '[Enginering & Architecture]']",003_Love
+List the bottom 3 hair lengths in terms of frequency.,"['Medium', 'Long', 'Bald']",003_Love
+Name the top 5 civil statuses represented in the dataset.,"['Single', 'Married', 'In a Relationship', 'In a Relationship Cohabiting', 'Divorced']",003_Love
+What are the 4 least common hair colors?,"['Red', 'Other', 'White', 'Blue']",003_Love
+What are the top 4 maximum gross annual salaries?,"[500000.0, 360000.0, 300000.0, 300000.0]",003_Love
+Name the bottom 3 values for the happiness scale.,"[2, 2, 2]",003_Love
+What are the 5 highest ages present in the dataset?,"[65, 62, 60, 60, 59]",003_Love
+List the bottom 6 skin tone values based on frequency.,"[2, 1, 6, 0, 7, 8]",003_Love
+Are there any trips with a total distance greater than 30 miles?,False,004_Taxi
+Were there any trips that cost more than $100 in total?,False,004_Taxi
+Is there any trip with more than 6 passengers?,False,004_Taxi
+Did all the trips use a payment type of either 1 or 2?,False,004_Taxi
+What is the maximum fare amount charged for a trip?,75.25,004_Taxi
+How many unique pickup locations are in the dataset?,96,004_Taxi
+What is the average tip amount given by passengers?,2.74,004_Taxi
+How many trips took place in the airport area?,99807,004_Taxi
+Which payment type is the most common in the dataset?,1,004_Taxi
+Which vendor has the most trips recorded?,2,004_Taxi
+What is the most common drop-off location?,236,004_Taxi
+On which date did the first recorded trip occur?,2023-01-31,004_Taxi
+Which are the top 3 most frequent pickup locations?,"[161, 237, 236]",004_Taxi
+Name the 4 most common rate codes used.,"[1, 2, 5, 4]",004_Taxi
+list the 2 most frequent store and forward flags.,"['N', 'Y']",004_Taxi
+Identify the top 4 payment types used by frequency,"[1, 2, 4, 3]",004_Taxi
+Report the 4 highest toll amounts paid.,"[0, 0, 0, 0]",004_Taxi
+list the top 3 longest trip distances,"[19.83, 19.74, 19.68]",004_Taxi
+Identify the 5 largest total amounts paid for trips.,"[80.0, 80.0, 80.0, 80.0, 80.0]",004_Taxi
+Report the 6 highest fare amounts charged.,"[75.25, 74.4, 73.0, 73.0, 73.0, 73.0]",004_Taxi
+Are there any complaints made in Brooklyn?,True,005_NYC
+Do any complaints have 'Dog' as a descriptor?,True,005_NYC
+Were there any complaints raised in April?,True,005_NYC
+Is the Mayor's office of special enforcement one of the agencies handling complaints?,True,005_NYC
+How many complaints have been made in Queens?,23110,005_NYC
+What's the total number of unique agencies handling complaints?,22,005_NYC
+How many complaints were raised at midnight?,14811,005_NYC
+How many unique descriptors are present in the dataset?,1131,005_NYC
+Which borough has the most complaints?,BROOKLYN,005_NYC
+Which month sees the highest number of complaints?,July,005_NYC
+Which weekday has the least complaints?,Sunday,005_NYC
+Which agency is least frequently handling complaints?,ACS,005_NYC
+List the top 5 most frequent complaint types.,"['Noise - Residential', 'HEAT/HOT WATER', 'Illegal Parking', 'Blocked Driveway', 'Street Condition']",005_NYC
+Which 4 agencies handle the most complaints?,"['NYPD', 'HPD', 'DOT', 'DSNY']",005_NYC
+Name the 2 least frequent descriptors for complaints by inverse alphabetical order.,"['Booting Company', 'Ready NY - Businesses', 'Animal']",005_NYC
+Mention the 2 most common weekdays for complaints.,"['Tuesday', 'Monday']",005_NYC
+What are the top 4 hours with the most complaints?,"[0, 12, 10, 11]",005_NYC
+State the 3 lowest unique complaint keys.,"[15628852, 15634748, 15634996]",005_NYC
+Which 2 hours see the least complaints?,"[6, 2]",005_NYC
+List the 6 highest complaint numbers from the dataset.,"[54954250, 54954040, 54952675, 54950924, 54950765, 54950581]",005_NYC
+Are all properties in the dataset located in the same neighbourhood?,False,006_London
+Do all hosts verify their identity?,False,006_London
+Are all reviews_per_month values greater than 5?,False,006_London
+Are there any listings without a specified room type?,False,006_London
+How many unique neighbourhoods are there in the dataset?,563,006_London
+How many listings don't have a valid price?,0,006_London
+How many properties have received the worst possible (0-5) review score for communication?,6,006_London
+What is the maximum number of bedrooms a property has in this dataset?,22.0,006_London
+Which neighbourhood has the most listings?,Westminster,006_London
+What is the most common room type in the listings?,Entire home/apt,006_London
+What property type has the most listings?,Entire rental unit,006_London
+Which host verification method is the least used?,photographer,006_London
+List the top 3 neighbourhoods with the most listings.,"['Westminster', 'Tower Hamlets', 'Hackney']",006_London
+Which are the top 4 most common property types?,"['Entire rental unit', 'Private room in rental unit', 'Private room in home', 'Entire condo']",006_London
+List the 2 most common host verification methods.,"['phone', 'email']",006_London
+Which are the 2 most preferred room types?,"['Entire home/apt', 'Private room']",006_London
+What are the top 3 highest review scores for location?,"[5.0, 5.0, 5.0]",006_London
+What are the 4 most common number of bedrooms in properties?,"[1.0, 2.0, 3.0, 4.0]",006_London
+What are the 5 highest counts of listings by a single host for entire homes?,"[288, 288, 288, 288, 288]",006_London
+List the 6 lowest review scores for communication.,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",006_London
+Are there players who have a greater overall score than their potential score?,False,007_Fifa
+Are there any players who joined their current club before they were 18 years old?,True,007_Fifa
+Are there any players whose preferred foot is left and are from a nationality that starts with 'B'?,True,007_Fifa
+Are there any players who are taller than 6 feet and have an agility score above 90?,False,007_Fifa
+What is the average overall score of players from France?,67.861432,007_Fifa
+How many unique clubs are there in the dataset?,683,007_Fifa
+What is the highest value (in €) of a player in the dataset?,105500000,007_Fifa
+How many players have the position 'ST'?,414,007_Fifa
+What is the most common nationality in the dataset?,England,007_Fifa
+What is the most common preferred foot amongst players?,Right,007_Fifa
+Which club has the most players in the dataset?,Crystal Palace,007_Fifa
+What is the most common position of players in the dataset?,SUB,007_Fifa
+Which are the top 5 nationalities in terms of the average overall score of their players?,"['Tanzania', 'Syria', 'Mozambique', 'Chad', 'Central African Rep.']",007_Fifa
+Which are the top 3 clubs in terms of the total value (in €) of their players?,"['Liverpool', 'Manchester City', 'Real Madrid']",007_Fifa
+Which are the bottom 4 nationalities in terms of the average agility of their players?,"['Macau', 'Andorra', 'Moldova', 'Liechtenstein']",007_Fifa
+Which are the top 6 clubs in terms of the average potential score of their players?,"['FC Bayern München', 'Real Madrid', 'FC Barcelona', 'Paris Saint-Germain', 'Juventus', 'Manchester City']",007_Fifa
+What are the top 3 overall scores in the dataset?,"[93, 92, 91]",007_Fifa
+What are the bottom 5 potential scores in the dataset?,"[48, 48, 49, 50, 50]",007_Fifa
+What are the top 4 values (in €) of players in the dataset?,"[105500000, 90000000, 87000000, 80000000]",007_Fifa
+What are the top 2 wages (in €) of players in the dataset?,"[560000, 370000]",007_Fifa
+There are no tornadoes that resulted in more than 500 injuries.,True,008_Tornados
+All tornadoes in the dataset occurred in the 21st century.,False,008_Tornados
+No tornado has a length greater than 100 miles.,True,008_Tornados
+There are no tornadoes that resulted in more than 100 fatalities.,True,008_Tornados
+How many unique states are represented in the dataset?,53,008_Tornados
+What is the highest magnitude of tornado recorded in the dataset?,5,008_Tornados
+What is the longest length of a tornado path in the dataset?,234.7,008_Tornados
+What is the maximum number of injuries caused by a single tornado?,1740,008_Tornados
+Which state has experienced the most tornadoes?,TX,008_Tornados
+In which month do most tornadoes occur?,5,008_Tornados
+On what date did the most destructive tornado (by injuries) occur?,1979-04-10 00:00:00,008_Tornados
+On what date did the longest tornado (by path length) occur?,1953-03-22 00:00:00,008_Tornados
+Which are the top 5 states with the highest average tornado magnitude?,"[AR, KY, VT, TN, MS]",008_Tornados
+Which are the top 2 states with the most tornado-related injuries? If in a tie then select alphabetically. ,"[TX, AL]",008_Tornados
+Which are the top 4 states with the most tornado-related fatalities? If you find a tie select alphabetically.,"[AL, TX, MS, OK]",008_Tornados
+Which are the bottom 2 states in terms of the average tornado path length?,"[AK, VI]",008_Tornados
+What are the top 3 number of injuries caused by tornadoes in the dataset?,"[1740, 1500, 1228]",008_Tornados
+What are the top 5 magnitudes of tornadoes in the dataset?,"[5, 5, 5, 5, 5]",008_Tornados
+What are the top 4 path lengths of tornadoes in the dataset?,"[234.7, 217.8, 202.5, 202.1]",008_Tornados
+What are the top 6 number of fatalities caused by tornadoes in the dataset?,"[158, 116, 114, 94, 80, 72]",008_Tornados
+There were no days when the precipitation was greater than 5 inches.,False,009_Central
+All recorded temperatures are above freezing point.,False,009_Central
+There were no days when the snow depth was more than 10 inches.,False,009_Central
+There were no days when the maximum temperature was below freezing point.,False,009_Central
+What is the highest recorded precipitation in inches?,8.28,009_Central
+What is the lowest minimum temperature recorded?,-15.0,009_Central
+What is the highest maximum temperature recorded?,106.0,009_Central
+What is the deepest recorded snow depth in inches?,26.0,009_Central
+On which date was the highest precipitation recorded?,1882-09-23,009_Central
+On which date was the lowest minimum temperature recorded?,1934-02-09,009_Central
+On which date was the highest maximum temperature recorded?,1936-07-09,009_Central
+On which date was the deepest snow depth recorded?,1947-12-27,009_Central
+What are the dates of the top 5 highest recorded precipitation events?,"[1882-09-23, 2007-04-15, 1977-11-08, 1903-10-09, 2021-09-01]",009_Central
+What are the dates of the top 3 lowest minimum temperatures recorded?,"[1934-02-09, 1917-12-30, 1943-02-15]",009_Central
+What are the dates of the top 4 highest maximum temperatures recorded?,"[1936-07-09, 1918-08-07, 1977-07-21, 2011-07-22]",009_Central
+What are the dates of the top 2 deepest snow depth recorded?,"[1947-12-27, 1947-12-28]",009_Central
+What are the 3 highest recorded precipitation events in inches?,"[8.28, 7.57, 7.4]",009_Central
+What are the 5 lowest minimum temperatures recorded?,"[-15.0, -13.0, -8.0, -7.0, -7.0]",009_Central
+What are the 4 highest maximum temperatures recorded?,"[106.0, 104.0, 104.0, 104.0]",009_Central
+What are the 2 deepest snow depth recorded in inches?,"[26.0, 25.0]",009_Central
+Are there more than 20 unique clothing items in the dataset?,True,010_ECommerce
+Is the age of the reviewers above 50 years on average?,False,010_ECommerce
+Do all reviews come from the same department?,False,010_ECommerce
+Are all products recommended?,False,010_ECommerce
+What is the average age of the reviewers?,43.198543813335604,010_ECommerce
+What's the highest number of positive feedback received for a review?,122,010_ECommerce
+What is the most common rating given by reviewers?,5,010_ECommerce
+How many unique clothing items are there in the dataset?,1206,010_ECommerce
+Which department has the most reviews?,Tops,010_ECommerce
+Which class of clothing is most commonly reviewed?,Dresses,010_ECommerce
+Which division is most commonly mentioned in the reviews?,General,010_ECommerce
+What is the most frequently reviewed clothing item? If you find a tie answer with row order.,1078,010_ECommerce
+Which are the 4 most reviewed categories in Department Name?,"['Tops', 'Dresses', 'Bottoms', 'Intimate']",010_ECommerce
+Which are the top 2 most reviewed categories in Class Name?,"['Dresses', 'Knits']",010_ECommerce
+Which are the 2 most reviewed categories in Division Name?,"['General', 'General Petite']",010_ECommerce
+What are the 4 highest ratings given by reviewers?,"[5, 4, 3, 2]",010_ECommerce
+What are the 5 oldest Ages of reviewers?,"[99, 99, 94, 94, 94]",010_ECommerce
+What are the 4 most common Positive Feedback Counts of reviewers?,"[0, 1, 2, 3]",010_ECommerce
+What are the 2 most common values for recommendation indicator?,"[1, 0]",010_ECommerce
+What are the 2 most common clothing IDs in the reviews? If you find a tie answer in row order.,"[1078, 862]",010_ECommerce
+Was the highest reported incident in the year 2023 filed online?,False,011_SF
+Are all incidents reported on Mondays resolved?,False,011_SF
+Do any incidents reported in Police District 'Central' fall in Supervisor District 5?,False,011_SF
+Are there any incidents that occurred at the same latitude and longitude more than once?,True,011_SF
+How many unique types of incident categories are there in the dataset?,49,011_SF
+What's the total number of incidents reported online?,144099,011_SF
+How many different police districts are there in the dataset?,11,011_SF
+What is the average incident count per year?,118851.16666666667,011_SF
+What is the most common incident category?,Larceny Theft,011_SF
+Which day of the week has the highest number of incidents?,Friday,011_SF
+What is the most common resolution for incidents reported online?,Open or Active,011_SF
+What is the Police District with the most incidents?,Central,011_SF
+What are the three most common incident descriptions?,"['Theft, From Locked Vehicle, >$950', 'Malicious Mischief, Vandalism to Property', 'Battery']",011_SF
+Name the 4 most frequently occurring police districts.,"[Central, Northern, Mission, Southern]",011_SF
+List the three most common incident categories on Fridays.,"[Larceny Theft, Malicious Mischief, Other Miscellaneous]",011_SF
+Give the 6 most common resolutions for incidents.,"[Open or Active, Cite or Arrest Adult, Unfounded, Exceptional Adult]",011_SF
+List the years with the top 4 highest incident counts.,"[2018, 2019, 2022, 2021]",011_SF
+Which 3 incident years have the lowest number of online filed reports? If two have the same number choose the latest year,"[2023, 2020, 2021]",011_SF
+What are the 2 years with the highest incident counts.,"[2018, 2019]",011_SF
+Name the 6 years with the most number of unique incident categories.,"[2018, 2019, 2020, 2021, 2022, 2023]",011_SF
+Do all patients experience exercise-induced angina?,False,012_Heart
+Does any patient have a resting blood pressure above 200?,False,012_Heart
+Are there patients without heart disease?,True,012_Heart
+Does everyone have normal resting electrocardiographic results?,False,012_Heart
+What is the maximum age of patients in the dataset?,77,012_Heart
+What is the minimum resting blood pressure among the patients?,0,012_Heart
+What is the average cholesterol level in the dataset?,198.7995642701525,012_Heart
+What is the standard deviation of maximum heart rate among the patients?,25.4603341382503,012_Heart
+What is the most common chest pain type among patients?,ASY,012_Heart
+What is the least common resting electrocardiographic result?,ST,012_Heart
+What is the most common ST slope among patients with heart disease?,Flat,012_Heart
+What is the least common chest pain type among male patients?,TA,012_Heart
+What are the top 3 most common chest pain types?,"['ASY', 'NAP', 'ATA']",012_Heart
+Which 4 resting electrocardiographic results are least common?,"['ST', 'LVH', 'Normal']",012_Heart
+What are the 2 most common ST slopes among patients with heart disease?,"['Flat', 'Up']",012_Heart
+What are the 4 most common chest pain types among male patients?,"['TA', 'ATA', 'NAP', 'ASY']",012_Heart
+What are the ages of the 5 oldest patients in the dataset?,"[77, 77, 76, 76, 75]",012_Heart
+What are the 4 highest resting blood pressures?,"[200, 200, 200, 200]",012_Heart
+What are the 6 lowest cholesterol levels in the dataset?,"[0, 0, 0, 0, 0, 0]",012_Heart
+What are the 3 highest maximum heart rates among the patients?,"[202, 195, 194]",012_Heart
+Did the oldest roller coaster in the dataset still operate?,True,013_Roller
+Is there a roller coaster in the dataset that operates at a speed more than 100 mph?,True,013_Roller
+Are all roller coasters in the dataset designed by 'Werner Stengel' removed?,False,013_Roller
+Does every roller coaster have a G-force value?,False,013_Roller
+What is the maximum speed (in mph) for roller coasters in the dataset?,149.1,013_Roller
+How many roller coasters were introduced in the year 2000?,47,013_Roller
+What is the average G-force across all roller coasters in the dataset?,3.8240055248618785,013_Roller
+What is the total number of roller coasters designed by 'Edwin Madeupname' in the dataset?,0,013_Roller
+Which manufacturer has built the fastest roller coaster?,Intamin,013_Roller
+What is the status of the roller coaster with the highest G-force?,Removed,013_Roller
+What type of the roller coaster is the oldest in the dataset?,Wood,013_Roller
+What is the location of the roller coaster with the highest number of inversions?,Alton Towers,013_Roller
+What are the names of the top 3 fastest roller coasters?,"[Formula Rossa, Kingda Ka, Top Thrill Dragster]",013_Roller
+Which 2 roller coasters have the highest number of inversions?,"[The Smiler, Colossus (Thorpe Park)]",013_Roller
+What are the locations of the top 5 roller coasters with the highest G-force?,"[Sea Lion Park, Fuji-Q Highland, Six Flags Over Texas, Nürburgring, Morey's Piers]",013_Roller
+Name the 4 oldest roller coasters in the dataset.,"[Switchback Railway, Flip Flap Railway, Loop the Loop (Coney Island), Loop the Loop (Young's Pier)]",013_Roller
+What are the top 3 speeds (in mph) of roller coasters in the dataset?,"[149.1, 128.0, 120.0]",013_Roller
+List the G-force values of the 2 roller coasters with the highest G-force.,"[12.0, 6.5]",013_Roller
+What are the heights (in ft) of the top 4 tallest roller coasters?,"[377.3, 367.5, 318.2, 306.1]",013_Roller
+Name the introduction years of the 6 oldest roller coasters in the dataset.,"[1884, 1895, 1901, 1901, 1902, 1902]",013_Roller
+Is there a rental property with exactly 5 bedrooms?,True,014_Airbnb
+Is there a rental property listed by a superhost that is instantly bookable?,True,014_Airbnb
+Are there any rental properties that can accommodate more than 10 guests?,True,014_Airbnb
+Is there a rental property that has received a perfect review score?,False,014_Airbnb
+How many rental properties are there in the dataset?,20776,014_Airbnb
+What is the maximum number of bedrooms in a property?,18.0,014_Airbnb
+What is the highest price per night for a rental property?,95150.0,014_Airbnb
+What is the maximum number of reviews a property has received?,870,014_Airbnb
+What is the host response time for the property with the highest number of bedrooms?,within an hour,014_Airbnb
+What type of room is the most expensive property?,Entire home/apt,014_Airbnb
+What is the property type of the listing with the most reviews?,Entire rental unit,014_Airbnb
+What is the acceptance rate of the host of the property that can accommodate the most number of guests?,100%,014_Airbnb
+Which are the 2 lowest values of host response rates above 0% ?,"['5%', '10%']",014_Airbnb
+Which are the 2 lowest values of host response rates?,"['0%', '0%']",014_Airbnb
+What are the 4 highest values of host acceptance rates?,"['99%', '99%', '99%', '99%']",014_Airbnb
+What are the 2 least common scraping sources?,"['previous scrape', 'city scrape']",014_Airbnb
+What are the 3 prices of the most expensive properties?,"[95150.0, 90130.0, 64430.0]",014_Airbnb
+What are the 2 prices of the least expensive properties?,"[0.0, 0.0]",014_Airbnb
+What are the 2 numbers of reviews received by the 2 most reviewed properties?,"[870, 822]",014_Airbnb
+What are the 5 numbers of guests accommodated by the properties that can accommodate the most guests?,"[16, 16, 16, 16, 16]",014_Airbnb
+Is there a food item with 'Fruits' as its group?,True,015_Food
+Are there food items with 'Nuts' as their sub group?,True,015_Food
+Is there a food item with scientific name 'Tilia argentea'?,True,015_Food
+Is 'Angelica' listed as a food name in the dataset?,True,015_Food
+How many food items are there in the dataset?,906,015_Food
+How many unique food groups are there in the dataset?,24,015_Food
+How many unique sub groups are there in the dataset?,123,015_Food
+How many unique food items are there in the dataset?,906,015_Food
+What is the group of the food named 'Kiwi'?,Fruits,015_Food
+What is the sub group of the food with scientific name 'Tilia argentea'?,Herbs,015_Food
+What is the scientific name of the food named 'Colorado pinyon'?,Pinus edulis,015_Food
+What is the food name of the item with scientific name 'Tilia argentea'?,Silver linden,015_Food
+What are the top 3 most common food groups?,"['Aquatic foods', 'Vegetables', 'Fruits']",015_Food
+What are the top 2 most common groups? If there are two that have the same number of appearances give preference alphabetically.,"['Aquatic foods', 'Fruits']",015_Food
+What are the 5 least common food groups?,"['Teas', 'Eggs', 'Baby foods', 'Unclassified', 'Herbs and spices']",015_Food
+What are the 5 most common sub groups?,"['Fishes', 'Herbs', 'Berries', 'Tropical fruits', 'Nuts']",015_Food
+What are the lengths of the top 5 most common sub group names?,"[6, 5, 7, 15, 4]",015_Food
+What are the number of appearances of the 2 least common groups?,"[1, 1]",015_Food
+What are the number of appearances of the 3 most common groups?,"[166, 130, 130]",015_Food
+What are the three most common group name lengths?,"[6.0, 13.0, 10.0]",015_Food
+Is there a customer with 'Large Business' as their occupation?,True,016_Holiday
+Are there customers with 'King' as their pitched product?,True,016_Holiday
+Is there a customer with designation 'VP'?,True,016_Holiday
+Is 'Unmarried' listed as a marital status in the dataset?,True,016_Holiday
+How many customers are there in the dataset?,4888,016_Holiday
+How many unique occupations are there in the dataset?,4,016_Holiday
+How many unique designations are there in the dataset?,5,016_Holiday
+How many unique marital statuses are there in the dataset?,4,016_Holiday
+What is the occupation of the customer with ID 200000?,Salaried,016_Holiday
+What is the product pitched to the customer with ID 200001?,Deluxe,016_Holiday
+What is the designation of the customer with ID 200002?,Executive,016_Holiday
+What is the marital status of the customer with ID 200003?,Divorced,016_Holiday
+What are the 3 most common occupations?,"['Salaried', 'Small Business', 'Large Business']",016_Holiday
+What are the top 2 most common pitched products?,"['Basic', 'Deluxe']",016_Holiday
+What are the 4 least common occupations?,"['Salaried', 'Small Business', 'Large Business', 'Free Lancer']",016_Holiday
+What are the 2 least common pitched products?,"['Super Deluxe', 'King']",016_Holiday
+What are the ages of the 3 oldest customers?,"[61, 61, 61]",016_Holiday
+What are the ages of the 4 youngest customers?,"[18.0, 18.0, 18.0, 18.0]",016_Holiday
+What are the top 2 highest monthly incomes of the customers?,"[98678, 95000]",016_Holiday
+What are the 4 most common duration of pitch?,"[9.0, 7.0, 8.0, 6.0]",016_Holiday
+Is there any entry posted on a weekend?,True,017_Hacker
+Are there titles with more than 100 characters?,False,017_Hacker
+Do any entries have a negative sentiment according to the Cardiff NLP model?,False,017_Hacker
+"Is the term 'linux' mentioned in the ""Clusters II"" column?",True,017_Hacker
+How many entries were posted in the morning?,1516,017_Hacker
+What's the highest score received by an entry?,6015,017_Hacker
+"On average, how many descendants does an entry have?",339.2486205432937,017_Hacker
+How many entries are in the Autumn season?,2301,017_Hacker
+Which day of the week has the most entries?,Tuesday,017_Hacker
+What is the predominant language used in titles?,en,017_Hacker
+In which season was the entry with the highest score posted?,Spring,017_Hacker
+On which part of the day are most entries posted?,afternoon,017_Hacker
+"List the top 4 most frequent terms in the ""Clusters II"" column.","['year, work, new', 'google, web, firefox, open', 'apple, linux, rust, iphone', 'facebook, twitter, die, account']",017_Hacker
+Name the 2 month names which appear less in the dataset.,"['December', 'July']",017_Hacker
+Identify the top 3 weekdays based on entry frequency.,"['Tuesday', 'Wednesday', 'Thursday']",017_Hacker
+Provide the bottom 4 seasons in terms of entry count.,"['Spring', 'Winter', 'Autumn', 'Summer']",017_Hacker
+List the top 3 scores in the dataset.,"[6015, 5771, 4338]",017_Hacker
+Name the bottom 5 title text lengths.,"[1.0, 2.0, 2.0, 2.0, 2.0]",017_Hacker
+Identify the top 4 numbers of descendants.,"[4576.0, 3678.0, 3676.0, 3463.0]",017_Hacker
+Provide the bottom 6 scores in the dataset.,"[501, 501, 501, 501, 501, 501]",017_Hacker
+Are there any employees with more than 7 projects?,False,018_Staff
+Has any employee worked for more than 300 hours on average per month?,True,018_Staff
+Are all satisfaction levels above 0.5?,False,018_Staff
+Were there any employees hired in 2019?,True,018_Staff
+How many unique departments are there?,10,018_Staff
+What's the maximum number of years an employee has been in the company?,10,018_Staff
+How many employees have been promoted in the last 5 years?,319,018_Staff
+"On average, how many hours do employees work monthly?",201.05,018_Staff
+Which department has the highest number of employees?,sales,018_Staff
+What's the most common salary level among employees?,low,018_Staff
+Which year had the highest number of employees hired?,2017,018_Staff
+Which salary level has the least number of employees who had an accident at work?,high,018_Staff
+Name the top 4 departments with the most employees.,"['sales', 'technical', 'support', 'IT']",018_Staff
+List the 3 departments with the most number of promotions in the last 5 years that have at least one promotion. ,"['hr', 'accounting', 'IT']",018_Staff
+Identify the 3 departments with the lowest average satisfaction levels.,"['accounting', 'hr', 'technical']",018_Staff
+What are the 2 departments with the lowest average monthly hours worked?,"['hr', 'marketing']",018_Staff
+Identify the top 3 years with the highest employee hiring.,"['2017', '2018', '2016']",018_Staff
+Which are the highest 3 satisfaction levels among employees who left?,"[0.92, 0.92, 0.92]",018_Staff
+List the bottom 5 average monthly hours among employees who were promoted in the last 5 years.,"[215, 133, 159, 241, 247]",018_Staff
+Whhat are the top 6 last evaluation scores?,"[1, 1, 1, 1, 1, 1]",018_Staff
+Did any incident result in the total destruction of the aircraft?,True,019_Aircraft
+Have there been any incidents where the cause was related to the undercarriage of the aircraft?,True,019_Aircraft
+Has there been any instance where the ground casualties were non-zero?,True,019_Aircraft
+Are there incidents where the aircraft was involved in a collision?,True,019_Aircraft
+How many unique aircraft models are in the dataset?,3523,019_Aircraft
+What's the highest number of occupants recorded in an incident?,524.0,019_Aircraft
+How many incidents occurred in January 2022?,7,019_Aircraft
+How many incidents resulted in non-zero fatalities?,0,019_Aircraft
+Which aircraft model was involved in the most incidents?,Junkers Ju-52/3m,019_Aircraft
+What was the cause of the incident that resulted in the most fatalities?,"Airplane - Pressurization, Airplane - Pressurization - Bulkhead failure, Airplane - Pressurization - Explosive decompression, Maintenance - (repair of) previous damage, Result - Loss of control",019_Aircraft
+What is the most common phase of aircraft during incidents?,En route (ENR),019_Aircraft
+What is the location of the incident with the highest number of onboard occupants?,near Ueno Village...,019_Aircraft
+What are the top 3 most common causes of incidents?,"['Info-Unavailable', 'Result - Runway excursion', 'Result - Damaged on the ground']",019_Aircraft
+List the top 5 locations where the most incidents have occurred. If there are two or more with the same number order them alphabetically,"['Arnhem', 'Beirut International Airport (BEY)', 'Glasgow-Preswick Airport', 'Havana-José Martí International Airport (HAV)', 'Miami International Airport, FL (MIA)']",019_Aircraft
+Name the 2 most frequently occurring aircraft operators in the dataset.,"['USAAF', 'USAF']",019_Aircraft
+What are the top 2 most common types of aircraft damage?,"['Damaged beyond repair', 'Substantial']",019_Aircraft
+What are the 5 highest numbers of onboard passengers in incidents?,"[509.0, 503.0, 497.0, 451.0, 440.0]",019_Aircraft
+List the 3 highest numbers of onboard crew in incidents.,"[32.0, 31.0, 29.0]",019_Aircraft
+Identify the 4 highest numbers of total onboard occupants in incidents.,"[524.0, 521.0, 517.0, 469.0]",019_Aircraft
+What are the 6 highest numbers of ground casualties in incidents?,"[1600, 900, 237, 107, 88, 87]",019_Aircraft
+"Are there any properties with a price over 1,000,000?",True,020_Real
+Any property with more than 10 bedrooms?,True,020_Real
+Are there properties with zero bathrooms?,False,020_Real
+Has any property been listed for more than 100 days?,True,020_Real
+What's the highest price in the dataset?,17000000.0,020_Real
+What's the total number of properties listed?,26026,020_Real
+What's the longest duration a property has been listed?,2535.0,020_Real
+What's the largest surface listed?,5504.0,020_Real
+What's the most common type of property listed?,Piso,020_Real
+Which advertiser has listed the most properties?,housell,020_Real
+Which property has the highest price?,GM31-121816,020_Real
+Which property has the largest surface area?,IF5563-FINCA VALLE LOZOYA,020_Real
+What are the five types of properties more frequently listed?,"['Piso', 'Chalet', 'Apartamento', 'Chalet adosado', 'Chalet unifamiliar']",020_Real
+What are the 2 types of properties which are listed more frequently?,"['Piso', 'Chalet']",020_Real
+What are the 2 most common localities for properties listed?,"['Madrid Capital', 'Torrejón de Ardoz']",020_Real
+What are the 2 most common districts for properties listed?,"['Centro', 'Salamanca']",020_Real
+What are the 5 highest property prices listed?,"[17000000.0, 13600000.0, 13250000.0, 13000000.0, 12000000.0]",020_Real
+List the 3 longest durations properties have been listed.,"[2535.0, 2534.0, 2285.0]",020_Real
+Identify the 4 largest surfaces listed.,"[5504.0, 3957.0, 2974.0, 2927.0]",020_Real
+What are the 6 highest numbers of bedrooms in properties listed?,"[20, 20, 20, 20, 20, 20]",020_Real
+Are there more than 2000 customers with a monthly charge higher than $80?,True,021_Telco
+Do all customers have phone service?,True,021_Telco
+Are there any customers with no internet service?,True,021_Telco
+Are there any customers who are senior citizens and have dependents?,True,021_Telco
+How many unique customers are there in the dataset?,7043,021_Telco
+What's the highest monthly charge?,118.75,021_Telco
+What's the total number of customers?,7043,021_Telco
+What's the longest tenure?,72,021_Telco
+What's the most common payment method?,Electronic check,021_Telco
+What's the most common contract type?,Month-to-month,021_Telco
+Which customer has the highest total charge?,2889-FPWRM,021_Telco
+Which customer has the highest monthly charge?,7569-NMZYQ,021_Telco
+What are the top 3 most common internet services?,"['Fiber optic', 'DSL', 'No']",021_Telco
+Name the 4 most common payment methods.,"['Electronic check', 'Mailed check', 'Bank transfer (automatic)', 'Credit card (automatic)']",021_Telco
+What are the 2 most common types of contract?,"['Month-to-month', 'Two year']",021_Telco
+What are the 2 most common services for which customers have multiple lines?,"['No', 'Yes']",021_Telco
+What are the 5 highest total charges?,"[8684.8, 8672.45, 8670.1, 8594.4, 8564.75]",021_Telco
+What are the 4 highest monthly charges?,"[118.75, 118.65, 118.6, 118.6]",021_Telco
+What are the 6 longest tenures?,"[72, 72, 72, 72, 72, 72]",021_Telco
+What are the 3 shortest tenures?,"[0, 0, 0]",021_Telco
+Is there a listing with a review score rating of 100?,True,022_Airbnbs
+Are there any hosts who have listed more than 10 properties?,True,022_Airbnbs
+Are all listings instantly bookable?,False,022_Airbnbs
+Is there a listing that requires a minimum of 365 nights?,True,022_Airbnbs
+How many unique hosts are there in the dataset?,26765,022_Airbnbs
+What is the highest number of listings a single host has?,2739.0,022_Airbnbs
+How many unique locations are listed by the hosts?,1316,022_Airbnbs
+What is the average review score rating across all listings?,93.767188,022_Airbnbs
+What is the most common host location?,"New York, New York, United States",022_Airbnbs
+What is the name of the listing with the most bedrooms?,"Walk to UN, Macy's & Empire State B",022_Airbnbs
+Which location has the highest number of listings?,"New York, New York, United States",022_Airbnbs
+What is the most common property type?,Entire apartment,022_Airbnbs
+What are the top 6 unique host locations with the most listings?,"['New York, New York, United States', 'US', 'Brooklyn, New York, United States', 'Queens, New York, United States', 'Los Angeles, California, United States', 'Bronx, New York, United States']",022_Airbnbs
+What are the 2 unique host locations with the most listings?,"['New York, New York, United States', 'US']",022_Airbnbs
+List the 4 most common property types.,"['Entire apartment', 'Private room in apartment', 'Entire condominium', 'Entire house']",022_Airbnbs
+What are the 2 most common types of properties?.,"['Entire apartment', 'Private room in apartment']",022_Airbnbs
+What are the top 3 highest review score ratings?,"[100, 100, 100]",022_Airbnbs
+What are the 5 lowest number of minimum nights required?,"[1, 1, 1, 1, 1]",022_Airbnbs
+What are the 4 highest unique number of bedrooms listed?,"[21, 14, 13, 11]",022_Airbnbs
+What are the 6 lowest review scores given because of locations?,"[2, 2, 2, 2, 2, 2]",022_Airbnbs
+Was there a day when the minimum temperature was below zero and it didn't rain?,True,023_Climate
+Are there records where the solar radiation exceeds 10 but the maximum temperature was below 20?,True,023_Climate
+Did any day with maximum wind speed above 15 also have average wind speed below 5?,True,023_Climate
+Were there days in the summer where the minimum temperature dropped below 10?,True,023_Climate
+How many days had a maximum temperature above 30 degrees?,5500,023_Climate
+"On average, what's the minimum temperature during winters?",2.7196082770831027,023_Climate
+How many unique days had solar radiation measurements?,28615,023_Climate
+What's the highest wind speed ever recorded?,32.2,023_Climate
+On which weekday did the highest temperature ever occur?,Friday,023_Climate
+In which season do we find the highest average solar radiation?,Summer,023_Climate
+Which month had the lowest average wind speed?,October,023_Climate
+On what date was the highest pressure ever recorded?,2016-12-22T00:00:00Z,023_Climate
+What are the top 3 months with the highest average maximum temperatures?,"['July', 'August', 'June']",023_Climate
+"Which are the 5 weekdays with the most rain, ranked from highest to lowest?","['Friday', 'Sunday', 'Saturday', 'Thursday', 'Wednesday']",023_Climate
+"List the 4 seasons ranked by average solar radiation, from highest to lowest.","['Summer', 'Spring', 'Autumn', 'Winter']",023_Climate
+Which 2 months recorded the lowest average minimum temperatures?,"['January', 'December']",023_Climate
+List the top 5 recorded maximum temperatures.,"[40.7, 40.6, 40.0, 40.0, 40.0]",023_Climate
+What are the 4 lowest wind speeds ever recorded?,"[0.0, 0.0, 0.0, 0.0]",023_Climate
+Rank the highest 3 solar radiation measurements.,"[14.9, 14.8, 14.7]",023_Climate
+Which 6 days of the year (numbered from 1 to 365/366) had the highest average temperatures?,"[209, 210, 208, 207, 211, 205]",023_Climate
+"Are there records where the RETRINOIN_xRZI exceeds 10,000?",True,024_Salary
+Are there any female respondents who belong to the ESTE NUTS1 region?,True,024_Salary
+Do we have respondents who fall under both PRIVADO control and NACIONAL market?,True,024_Salary
+"Are there records with RETRINOIN_WwQk less than 5,000?",True,024_Salary
+How many unique respondents belong to the ESTE NUTS1 region?,58852,024_Salary
+"On average, what's the RETRINOIN value for male respondents?",29370.243704368546,024_Salary
+What's the highest value for RETRINOIN_ac1q in the dataset?,199496.34,024_Salary
+How many unique clusters are present in the 'umap_cluster' column?,73,024_Salary
+Which 'ANOS2' category has the most number of respondents?,DE 40 A 49,024_Salary
+In which 'NUTS1' region do we find the highest average RETRINOIN?,COMUNIDAD DE MADRID,024_Salary
+Which 'MERCADO' category is the least common in the dataset?,UNIÓN EUROPEA,024_Salary
+Which 'umap_cluster' is the most dominant in the dataset?,Cluster 1,024_Salary
+Which are the 2 least common age categories in the dataset?,"['MENOS 19 AÑOS', 'MÁS DE 59']",024_Salary
+Which are the 3 least common 'ANOS2' categories in the dataset?,"['MENOS 19 AÑOS', 'MÁS DE 59', 'DE 20 A 29']",024_Salary
+List the top 5 'NUTS1' regions by frequency.,"['ESTE', 'COMUNIDAD DE MADRID', 'NORESTE', 'SUR', 'CENTRO']",024_Salary
+Which 2 'umap_cluster' categories are the least represented?,"['Cluster 71', 'Cluster 73']",024_Salary
+List the top 5 recorded RETRINOIN values.,"[4225998.36, 4153877.05, 4021902.63, 3903390.45, 2192967.2]",024_Salary
+What are the 4 lowest x values in the dataset?,"[-23714.217, -23706.5, -23698.271, -23697.166]",024_Salary
+Rank the highest 3 y values in the dataset.,"[28352.02, 28313.926, 28283.78]",024_Salary
+What are the largest 2 y values in the dataset?.,"[28352.02, 28313.926]",024_Salary
+Is the most visited URL related to 'no code data science'?,True,025_Data
+Does any URL have a competition level of 'Low'?,True,025_Data
+Are there any URLs with an average monthly searches above 1000?,False,025_Data
+Is the URL with the lowest ranking also the one with the highest monthly searches?,True,025_Data
+How many unique URLs are in the dataset?,28,025_Data
+What is the lowest ranking value in the dataset?,11,025_Data
+What is the minimum average monthly searches in the dataset?,50,025_Data
+How many unique keywords are present in the dataset?,6,025_Data
+What is the competition level of the highest-ranked URL?,Medium,025_Data
+What keyword has the highest average monthly searches?,no code data science,025_Data
+What is the competition level for the URL with the highest ranking?,Low,025_Data
+What keyword is associated with the URL with the lowest ranking?,no code data science,025_Data
+What are the top 3 URLs with the highest average monthly searches?,"['https://www.obviously.ai/', 'https://venturebeat.com/2021/10/12/no-code-ai-startup-obviously-ai-raises-4-7m/', 'https://hbr.org/2021/11/how-no-code-platforms-could-disrupt-the-it-industry']",025_Data
+List the bottom 2 competition levels of URLs with ranking better than 5.,"['Medium', 'Unknown']",025_Data
+Which are the top 4 keywords associated with the URLs of lowest rankings?,"['no code data science', 'no code data analytics', 'no code data science', 'no code data science']",025_Data
+Enumerate the bottom 3 URLs with the highest rankings.,"['https://www.obviously.ai/', 'https://www.obviously.ai/', 'https://venturebeat.com/2021/10/12/no-code-ai-startup-obviously-ai-raises-4-7m/']",025_Data
+What are the lowest 4 rankings associated with the keyword 'no code data science'?,"[10, 9, 8, 7]",025_Data
+List the bottom 3 average monthly searches for URLs with medium competition.,"[50, 50, 50]",025_Data
+Provide the lowest 5 rankings of URLs with low competition (if any).,"[11, 10, 10, 9, 9]",025_Data
+Specify the bottom 2 average monthly searches for URLs with the highest rankings.,"[50, 50]",025_Data
+Is there any wine with a quality rating of 10?,False,026_Predicting
+Are there any wines with residual sugar above 15g/dm^3?,True,026_Predicting
+Is the highest alcohol content wine also the one with the highest quality rating?,False,026_Predicting
+Does any wine have a pH level below 2.5?,False,026_Predicting
+How many unique quality ratings are there in the dataset?,6,026_Predicting
+What is the maximum fixed acidity level found in the dataset?,15.9,026_Predicting
+What is the minimum volatile acidity level in the dataset?,0.12,026_Predicting
+How many wines have free sulfur dioxide above 50 mg/dm^3?,16,026_Predicting
+What is the quality rating of the wine with the highest alcohol content?,5,026_Predicting
+What is the quality rating of the wine with the highest fixed acidity?,5,026_Predicting
+What is the quality rating of the wine with the lowest volatile acidity?,7,026_Predicting
+What is the quality rating of the wine with the highest pH level?,6,026_Predicting
+List the quality ratings of the top 3 wines with the highest alcohol content.,"['5', '6', '6']",026_Predicting
+Enumerate the quality ratings of the bottom 2 wines with the lowest residual sugar.,"['6', '6']",026_Predicting
+Which are the quality ratings of the top 5 wines with the highest density?,"['6', '6', '7', '5', '5']",026_Predicting
+List the quality ratings of the bottom 4 wines with the lowest pH level.,"['4', '6', '6', '8']",026_Predicting
+What are the alcohol contents of the top 4 wines with the highest quality ratings?,"['12.8', '12.6', '12.9', '9.8']",026_Predicting
+List the volatile acidity levels of the bottom 3 wines with the lowest quality ratings.,"['0.58', '0.61', '1.185']",026_Predicting
+Enumerate the fixed acidity levels of the top 5 wines with the highest quality ratings.,"['7.9', '10.3', '5.6', '12.6', '11.3']",026_Predicting
+Provide the residual sugar levels of the bottom 2 wines with the lowest quality ratings.,"['2.2', '2.1']",026_Predicting
+Is there any purchase with a total cost above 1000?,True,027_Supermarket
+Are there any customers who made a purchase using cash?,True,027_Supermarket
+Is the customer with the highest total purchase cost a 'Member'?,True,027_Supermarket
+Does any customer with a rating strictly above 9 use 'Ewallet' as their payment method?,True,027_Supermarket
+How many unique branches are there in the dataset?,3,027_Supermarket
+What is the maximum quantity of products bought in a single purchase?,10,027_Supermarket
+What is the minimum total cost of a purchase in the dataset?,10.6785,027_Supermarket
+How many purchases were made in Yangon city?,340,027_Supermarket
+What is the payment method used for the purchase with the highest total cost?,Credit card,027_Supermarket
+What is the product line of the purchase with the highest total cost?,Fashion accessories,027_Supermarket
+What is the customer type of the purchase with the lowest total cost?,Member,027_Supermarket
+What is the gender of the customer with the highest total purchase cost?,Female,027_Supermarket
+List the payment methods of the top 3 purchases with the highest total cost.,"['Credit card', 'Credit card', 'Ewallet']",027_Supermarket
+Enumerate the product lines of the bottom 2 purchases with the lowest total cost.,"['Sports and travel', 'Fashion accessories']",027_Supermarket
+Which are the customer types of the top 5 purchases with the highest total cost?,"['Member', 'Normal', 'Member', 'Normal', 'Normal']",027_Supermarket
+List the genders of the bottom 4 purchases with the lowest total cost.,"['Male', 'Female', 'Female', 'Male']",027_Supermarket
+What are the quantities of products bought in the top 4 purchases with the highest total cost?,"[10, 10, 10, 10]",027_Supermarket
+List the unit prices of the bottom 3 purchases with the lowest total cost.,"[10.17, 12.09, 12.54]",027_Supermarket
+Enumerate the ratings of the top 5 purchases with the highest total cost.,"[6.6, 8.7, 4.5, 8.0, 4.4]",027_Supermarket
+Provide the gross incomes of the bottom 2 purchases with the lowest total cost.,"[0.5085, 0.6045]",027_Supermarket
+Are there any individuals in the dataset who are above 60 years of age?,False,028_Predict
+Does anyone have a Diabetes Pedigree Function score above 2.5?,True,028_Predict
+Does the person with the highest glucose level also have diabetes?,True,028_Predict
+Is there anyone who has zero pregnancies and is diabetic?,True,028_Predict
+What is the maximum number of pregnancies recorded in the dataset?,17,028_Predict
+What is the minimum blood pressure level recorded in the dataset?,0,028_Predict
+What is the average BMI recorded in the dataset?,31.992578124999998,028_Predict
+How many individuals have an insulin level above 150?,187,028_Predict
+What is the diabetes outcome for the person with the highest BMI?,1,028_Predict
+What is the diabetes outcome for the person with the lowest blood pressure?,0,028_Predict
+What is the diabetes outcome for the person with the highest insulin level?,1,028_Predict
+What is the diabetes outcome for the person with the lowest glucose level?,0,028_Predict
+List the diabetes outcomes of the top 3 individuals with the highest number of pregnancies.,"[1, 1, 1]",028_Predict
+List the diabetes outcomes of the bottom 2 individuals with the lowest BMI.,"[0, 0]",028_Predict
+List the diabetes outcomes of the top 5 individuals with the highest insulin levels.,"[1, 1, 1, 1, 1]",028_Predict
+List the diabetes outcomes of the bottom 4 individuals with the lowest blood pressure.,"[0, 0, 0, 0]",028_Predict
+What are the ages of the top 4 individuals with the highest number of pregnancies?,"[51, 67, 67, 67]",028_Predict
+List the BMI of the bottom 3 individuals with the lowest glucose levels.,"[32.0, 32.0, 32.0]",028_Predict
+Enumerate the blood pressure levels of the top 5 individuals with the highest Diabetes Pedigree Function scores.,"[0, 0, 0, 0, 0]",028_Predict
+Provide the glucose levels of the 2 individuals with the highest insulin levels.,"[189, 197]",028_Predict
+Are there any articles that have the material type 'Op-Ed'?,False,029_NYTimes
+Does the article with the longest headline contain the keyword 'United States Politics and Government'?,False,029_NYTimes
+Is there any article published on '2021-01-05'?,False,029_NYTimes
+Does any article contain more than 10 keywords?,True,029_NYTimes
+How many unique material types are there in the dataset?,4,029_NYTimes
+What is the longest length of a headline in the dataset?,96,029_NYTimes
+How many articles were published on '2021-01-02'?,52,029_NYTimes
+What is the highest number of keywords associated with a single article?,8,029_NYTimes
+What is the material type of the article with the longest headline?,News,029_NYTimes
+What is the material type of the article with the shortest headline?,News,029_NYTimes
+What is the material type of the article with the most number of keywords?,News,029_NYTimes
+What is the material type of the article with the least number of keywords?,News,029_NYTimes
+List the material types of the top 3 articles with the longest headlines.,"['News', 'News', 'News']",029_NYTimes
+List the material types of the bottom 2 articles with the shortest headlines.,"['News', 'News']",029_NYTimes
+List the material types of the top 5 articles with the most number of keywords.,"['News', 'News', 'News', 'News', 'News']",029_NYTimes
+List the material types of the bottom 4 articles with the least number of keywords.,"['News', 'News', 'News', 'News']",029_NYTimes
+What are the lengths of the headlines of the top 4 articles with the most number of keywords?,"[86, 85, 84, 84]",029_NYTimes
+List the number of keywords in the bottom 3 articles with the shortest headlines.,"[1, 1, 1]",029_NYTimes
+Enumerate the lengths of the headlines of the top 5 articles with the longest headlines.,"[96, 96, 95, 95, 95]",029_NYTimes
+Provide the number of keywords in the bottom 2 articles with the least number of keywords.,"[1, 1]",029_NYTimes
+Is the 'USA' the most common entry in the 'Geographies' column?,False,030_Professionals
+Are there any participants who are unemployed with a bachelor's degree from Africa?,False,030_Professionals
+Do all participants recommend Python as the first programming language?,False,030_Professionals
+Are there more than 1000 participants who hope to become familiar with AWS in the next 2 years?,False,030_Professionals
+How many unique job titles are represented in the dataset?,14,030_Professionals
+What's the median of the average number of years participants have used machine learning methods?,1.5,030_Professionals
+How many participants are from the United Kingdom?,450,030_Professionals
+What is the most common number of programming languages used by participants on a regular basis?,2,030_Professionals
+What's the most common computing platform used for data science projects?,A laptop,030_Professionals
+What's the most common programming language used on a regular basis?,Python,030_Professionals
+Which country has the second highest number of participants?,United States of America,030_Professionals
+Which title is the most common among participants?,Data Scientist,030_Professionals
+What are the top 4 geographies represented in the dataset?,"['India', 'USA', 'Western Europe', 'China - Japan - Korea']",030_Professionals
+Name the top 3 general segments of participants.,"['Analysts', 'Data Scientists', 'Academics']",030_Professionals
+list the top 4 most common job titles.,"['Data Scientist', 'Software Engineer', 'Other', 'Data Analyst']",030_Professionals
+Identify the top 6 programming languages used regularly.,"['Python', 'SQL', 'R', 'Javascript', 'C++', 'Java']",030_Professionals
+Report the top 4 age ranges of participants by frequency,"['25-29', '30-34', '22-24', '35-39']",030_Professionals
+list the highest average 3 years of machine learning experience.,"[19.83, 19.74, 19.68]",030_Professionals
+Identify the 5 highest yearly compensations.,"[1000000, 1000000, 1000000, 1000000, 1000000]",030_Professionals
+Report the 5 most common sizes of the company where participants work.,"['0-49 employees', '10,000 or more employees', '1000-9,999 employees', '50-249 employees', '250-999 employees']",030_Professionals
+Are there more reviews with rating 5 from 'GB' than 'US'?,True,031_Trustpilot
+Is the average rating for 'Wise' in 'GB' above 4?,True,031_Trustpilot
+Do any reviews originate from 'AO'?,True,031_Trustpilot
+Did any reviews receive a rating of 1?,True,031_Trustpilot
+What's the total number of reviews for 'Wise'?,3840,031_Trustpilot
+How many unique countries gave 'Wise' a rating of 5?,120,031_Trustpilot
+What is the highest rating received?,5,031_Trustpilot
+What's the average rating across all reviews?,4.097755610972569,031_Trustpilot
+Which company received the most 5-star reviews?,Wise,031_Trustpilot
+From which country did 'Wise' receive the most reviews?,GB,031_Trustpilot
+Which country had the lowest representation in the reviews?,CW,031_Trustpilot
+Which company received the lowest rating?,N26,031_Trustpilot
+Which are the top 3 countries with the most 5-star reviews for 'Wise'?,"['GB', 'US', 'ES']",031_Trustpilot
+Which are the 2 companies represented in the dataset?,"['Wise', 'N26']",031_Trustpilot
+Which are the bottom 4 countries in terms of review count? If two or more have the same number order them alphabetically.,"['CW', 'FO', 'KZ', 'NE']",031_Trustpilot
+What are the 3 most common countries? If two or more have the same number order them alphabetically.,"['GB', 'DE', 'FR']",031_Trustpilot
+What are the 3 most common ratings?,"[5, 1, 4]",031_Trustpilot
+What are the 2 least common ratings?,"[3, 2]",031_Trustpilot
+What are the best 4 unique ratings given to 'Wise'?,"[5, 4, 2, 1]",031_Trustpilot
+What are the bottom 5 unique ratings given to 'N26'?,"[1, 2, 3, 4, 5]",031_Trustpilot
+Is there any customer with a PhD education level?,True,032_Delicatessen
+Do we have any customers who are married?,True,032_Delicatessen
+Is there any customer with income higher than 100000?,True,032_Delicatessen
+Has any customer made more than 10 web purchases?,True,032_Delicatessen
+How many customers do we have in the dataset?,2240,032_Delicatessen
+What's the average income of our customers?,52247.25135379061,032_Delicatessen
+What's the maximum number of web purchases made by a customer?,27,032_Delicatessen
+What's the minimum recency of purchase among the customers?,0,032_Delicatessen
+What's the most common education level among our customers?,Graduation,032_Delicatessen
+What's the most common marital status among our customers?,Married,032_Delicatessen
+Who is the customer with the highest income?,9432,032_Delicatessen
+Who is the customer with the most recent purchase?,4047,032_Delicatessen
+Who are the 3 customers with the highest income?,"[9432, 1503, 1501]",032_Delicatessen
+What are the 2 most common education levels among our customers?,"['Graduation', 'PhD']",032_Delicatessen
+What are the 3 most common marital statuses among our customers?,"['Married', 'Together', 'Single']",032_Delicatessen
+Who are the 3 customers with the most web purchases?,"[5255, 4619, 10311]",032_Delicatessen
+What are the top 3 income values among our customers?,"[666666.0, 162397.0, 160803.0]",032_Delicatessen
+What are the top 2 recency values among our customers?,"[99, 99]",032_Delicatessen
+What are the bottom 3 income values among our customers?,"[1730.0, 2447.0, 3502.0]",032_Delicatessen
+What are the bottom 2 recency values among our customers?,"[0, 0]",032_Delicatessen
+Is there any customer with a high salary?,True,033_Employee
+Do we have any employees who suffered a work accident?,True,033_Employee
+Is there any employee with more than 100 hours per month on average?,True,033_Employee
+Does any employee have a satisfaction level above 0.9?,True,033_Employee
+How many employees do we have in the dataset?,14999,033_Employee
+What's the median satisfaction level of our employees?,0.64,033_Employee
+What's the highest number of projects for a given employee?,7,033_Employee
+What's the most common marital status among the employees?,Together,033_Employee
+What's the most common education level among our employees?,Graduation,033_Employee
+What's the most common marital status in the database?,Married,033_Employee
+"Among the employees who have left the company in sales, what's the most common salary level?",low,033_Employee
+"Among the employees who have had a work accident in sales, what's the most common salary level?",low,033_Employee
+What are the top 3 satisfaction levels?,"[1, 1, 1]",033_Employee
+What are the top 2 most common Work Accident statuses among our employees?,"['No', 'Yes']",033_Employee
+What are the top 3 most common marital statuses among our employees?,"['Together', 'Single', 'Married']",033_Employee
+What are the highest 3 years spent in the company? ,"[10, 10, 10]",033_Employee
+What are the 3 departments with more 'medium' salary levels?,"['sales', 'technical', 'support']",033_Employee
+"For the 2 employees with the top satisfaction levels who belong to the sales department, what are their salary levels?","['low', 'low']",033_Employee
+What are the top 3 average monthly hours worked among the employees in the top 3 departments with the most employees?,"[200.91135265700484, 202.49742647058824, 200.75818752803949]",033_Employee
+What are the lowest 2 satisfaction levels among the employees who have not had a work accident?,"[0.09, 0.09]",033_Employee
+"Is there any country with a Ladder score above 7.5, a Generosity score above 0.2, and a Social support score above 0.7?",True,034_World
+"Are there any countries in Western Europe with a Perceptions of corruption score above 0.5, a Ladder score above 7, and a Social support score above 0.7?",True,034_World
+Are there any countries in Western Europe with a Perceptions of corruption score above 0.5?,True,034_World
+Is there any country with a Social support score below 0.5?,True,034_World
+What's the average Ladder score among the countries in Western Europe with a Generosity score above 0.2 and a Social support score above 0.7?,7.222675085250001,034_World
+What's the average Perceptions of corruption score among the countries in Sub-Saharan Africa with a Ladder score below 5 and a Social support score below 0.5?,0.7493706045,034_World
+What's the maximum Generosity score among the countries?,0.560663998,034_World
+What's the minimum Social support score among the countries?,0.319459856,034_World
+Which region has the highest number of countries with a Ladder score above 7 and a Generosity score above 0.2?,Western Europe,034_World
+Which region accounts for the most countries with a Generosity score above 0.2?,Western Europe,034_World
+In which region are the majority of countries with a Perceptions of corruption score below 0.5 located?,Western Europe,034_World
+In which region can you find the majority of countries with a Social support score above 0.7?,Western Europe,034_World
+Can you name the three regions that have the most countries with a Ladder score above 7 and a Generosity score above 0.2?,['Western Europe'],034_World
+What are the top 3 regions with the most countries with a Generosity score above 0.2?,"['Western Europe', 'Southeast Asia', 'Sub-Saharan Africa']",034_World
+Identify the three highest Ladder scores from countries in Western Europe that have a Generosity score above 0.2 and a Social support score above 0.7.,"[7.504499912, 7.448900223, 7.164500237]",034_World
+What are the top 3 Perceptions of corruption scores among the countries in Sub-Saharan Africa?,"[0.891806662, 0.861874342, 0.861330688]",034_World
+What are the top 3 Generosity scores among the countries in Western Europe?,"[0.263732493, 0.246944219, 0.214965805]",034_World
+What are the top 3 Social support scores among the countries in Sub-Saharan Africa?,"[0.910357833, 0.852532268, 0.846880972]",034_World
+Which are the three lowest Ladder scores in Western Europe?,"[5.514999866, 5.53550005, 5.910900116]",034_World
+Which are the three lowest Perceptions of corruption scores in Sub-Saharan Africa?,"[0.183541179, 0.606934547, 0.619799435]",034_World
+Is the song with the highest rank from 1965?,True,035_Billboard
+Does the song with the lowest rank contain the word 'love' in its lyrics?,True,035_Billboard
+Is the artist of the song with the highest rank the same as the artist of the song with the lowest rank?,False,035_Billboard
+Are there songs without lyrics?,True,035_Billboard
+How many songs were produced in 1965?,100,035_Billboard
+In which year was the song with the highest rank produced?,1965,035_Billboard
+What's the rank of the song with the longest lyrics?,19,035_Billboard
+How many unique artists are there in the dataset?,2473,035_Billboard
+Who is the artist of the song with the highest rank?,sam the sham and the pharaohs,035_Billboard
+What is the title of the song with the lowest rank?,how sweet it is to be loved by you,035_Billboard
+Which song's lyrics contain the word 'love' the most times?,the way you love me,035_Billboard
+What is the title of the top song produced in the earliest year?,wooly bully,035_Billboard
+Who are the artists of the top 5 ranked songs?,"['sam the sham and the pharaohs', 'ssgt barry sadler', 'the beach boys', 'the beatles', 'the beatles']",035_Billboard
+What are the titles of the 3 songs with the shortest lyrics?,"['girl youll be a woman soon', 'papa dont preach', 'breathe']",035_Billboard
+What are the top 4 songs by rank produced in the most recent year?,"['uptown funk', 'thinking out loud', 'see you again', 'trap queen']",035_Billboard
+Who are the artists of the bottom 5 ranked songs?,"['marvin gaye', 'wilson pickett', 'neil diamond', 'jerry butler', 'the beatles']",035_Billboard
+What are the ranks of the top 3 songs with the most occurrences of the word 'love' in their lyrics?,"[64, 41, 28]",035_Billboard
+What are the years of production of the bottom 4 ranked songs?,"[1965, 1966, 1967, 1968]",035_Billboard
+What are the ranks of the 2 songs produced in the earliest year?,"[1, 2]",035_Billboard
+What are the years of production of the top 5 songs with the longest lyrics?,"[1998, 2009, 2010, 2007, 2002]",035_Billboard
+Is the song with the highest rank from 1965 by the Beatles?,False,035_Billboard
+Which artist has the song with the highest rank in 1965?,sam the sham and the pharaohs,035_Billboard
+Who are the artists of the top 3 songs in 1965?,"['sam the sham and the pharaohs', 'four tops', 'the beach boys']",035_Billboard
+What are the years of production of the top 3 songs with the word 'love' in their lyrics by the Beatles?,"[1967, 1965, 1966]",035_Billboard
+"Are there records where the 'count' exceeds 20,000?",True,036_US
+Do we have any records originating from 'Jefferson'?,True,036_US
+Are there destinations with the name 'Baldwin'?,True,036_US
+Are there records where the latitude of the destination is greater than 60?,True,036_US
+How many unique destinations are there in the dataset?,3219,036_US
+"On average, how many times is each origin-destination pair reported?",67.7453798126951,036_US
+What's the highest count value in the dataset?,40580,036_US
+How many unique origin names are there in the dataset?,1904,036_US
+From which origin do we have the highest 'count' recorded?,,036_US
+To which destination do we find the highest 'count' reported?,Los Angeles,036_US
+Which origin has the lowest latitude?,Guáanica,036_US
+Which destination has the highest longitude?,Fajardo,036_US
+What are the 3 origins with the highest average count?,"['Los Angeles', 'New York', 'San Francisco']",036_US
+Which are the 4 destinations with the lowest average count?,"['Kalawao', 'Loving', 'Kenedy', 'Wheatland']",036_US
+List the 5 origins with the highest average latitude values.,"['North Slope', 'Northwest Arctic', 'Yukon-Koyukuk', 'Nome', 'Fairbanks North Star']",036_US
+Which 2 origins have the lowest non-null average longitude values?,"['Aleutians West', 'Nome']",036_US
+List the highest 5 count values.,"[40580, 39899, 38430, 28524, 24452]",036_US
+What are the 3 highest latitude values for destinations?,"[69.42718361, 69.42718361, 69.42718361]",036_US
+Rank the lowest 4 longitude values for origins.,"[-167.08526, -167.08526, -167.08526, -167.08526]",036_US
+Which 6 destination IDs have the highest average counts?,"[6037, 36061, 48201, 6059, 6071, 6085]",036_US
+Are there talks with more than a million views?,True,037_Ted
+Is there a talk by 'Elon Musk'?,True,037_Ted
+Are there any TEDx events included?,True,037_Ted
+Are there talks available in more than 10 languages?,True,037_Ted
+How many unique speakers are there in the dataset?,3274,037_Ted
+What's the average number of views for the talks?,2148005.5737827714,037_Ted
+What's the maximum duration of a talk (in seconds)?,3922,037_Ted
+How many talks have more than 500 comments?,186,037_Ted
+Which event has the highest average views?,TEDxPuget Sound,037_Ted
+Which speaker's talk has the most comments?,Richard Dawkins,037_Ted
+Which talk's title has the least views?,Por qué necesitamos proteger el alta mar,037_Ted
+In which event was the longest talk held?,Countdown,037_Ted
+Which are the top 4 events with the highest average number of comments?,"['TEDxPuget Sound', 'TEDxHouston', 'TEDxFiDiWomen', 'TEDxUW']",037_Ted
+List the top 3 most frequent speakers in the dataset. If two have the same count go by alphabetical order. ,"['Alex Gendler', 'Iseult Gillespie', 'Emma Bryce']",037_Ted
+Which 5 events have the shortest average talk durations?,"['TEDxConcorde', 'Small Thing Big Idea', 'The TED Interview', 'TEDxConcordiaUPortland', 'The Way We Work']",037_Ted
+List 2 events with the most number of talks.,"['TED-Ed', 'TED2018']",037_Ted
+What are the top 4 most viewed talks' view counts?,"[65051954, 57074270, 56932551, 49730580]",037_Ted
+List the 3 shortest talk durations in the dataset.,"[60, 78, 78]",037_Ted
+What are the 5 highest number of comments?,"[6449.0, 4931.0, 3424.0, 3006.0, 2984.0]",037_Ted
+List the view counts of the 6 least viewed talks.,"[0, 0, 0, 0, 0, 0]",037_Ted
+Is it true that the oldest person in the dataset has a stroke?,True,038_Stroke
+Do all smokers have hypertension?,False,038_Stroke
+Are all people with heart diseases married?,False,038_Stroke
+Is the average glucose level higher for males than females?,True,038_Stroke
+How many people in the dataset have a stroke?,249,038_Stroke
+What is the average age of people who smoke?,47.09632446134347,038_Stroke
+What is the highest glucose level recorded in the dataset?,271.74,038_Stroke
+How many unique 'work_type' categories are there in the dataset?,5,038_Stroke
+What is the most common work type among stroke patients?,Private,038_Stroke
+What is the smoking status of the youngest person in the dataset?,Unknown,038_Stroke
+What is the residence type of the person with the highest BMI?,Rural,038_Stroke
+What is the gender of the person with the lowest glucose level?,Female,038_Stroke
+What are the top 3 work types among people with heart diseases?,"['Private', 'Self-employed', 'Govt_job']",038_Stroke
+What are the 5 most common smoking statuses among people with a stroke?,"['never smoked', 'formerly smoked', 'Unknown', 'smokes']",038_Stroke
+What are the top 2 residence types of people with hypertension?,"['Rural', 'Urban']",038_Stroke
+What are the top 2 work types among people who have never married?,"['Private', 'children']",038_Stroke
+What are the oldest 5 ages of people with strokes?,"[82.0, 82.0, 82.0, 82.0, 82.0]",038_Stroke
+What are the 3 lowest BMIs among people who smoke?,"[15.7, 16.7, 16.7]",038_Stroke
+What are the top 4 glucose levels of people who have heart diseases?,"[271.74, 254.63, 254.6, 252.72]",038_Stroke
+What are the 6 highest ages of people who have never married?,"[82.0, 82.0, 82.0, 82.0, 82.0, 82.0]",038_Stroke
+Are there any reflections with more than 10 sentences?,True,039_Happy
+Is there a reflection from 'USA' with over 5 sentences?,True,039_Happy
+Are there any reflections categorized as 'affection'?,True,039_Happy
+Are there any married individuals who reflected on 'exercise'?,True,039_Happy
+How many unique reflection periods are there?,2,039_Happy
+"On average, how many sentences are there in the reflections?",1.3407668971005122,039_Happy
+What's the highest age of an individual in the dataset?,233.0,039_Happy
+How many reflections are from 'IND'?,16729,039_Happy
+Which country has the highest average number of sentences in their reflections?,UKR,039_Happy
+Which gender has the most reflections categorized as 'affection'?,f,039_Happy
+From which country is the oldest individual who reflected?,USA,039_Happy
+Which marital status has the most reflections on 'bonding'?,single,039_Happy
+Which are the top 3 countries with the highest average number of sentences in their reflections?,"['UKR', 'CRI', 'HKG']",039_Happy
+List the 4 most common predicted categories in the dataset.,"['affection', 'achievement', 'enjoy_the_moment', 'bonding']",039_Happy
+Which 5 countries have the youngest average age of reflectors?,"['KAZ', 'ALB', 'LKA', 'MAR', 'SLV']",039_Happy
+List 2 genders with the most number of reflections.,"['m', 'f']",039_Happy
+What are the lowest 4 number of sentences?,"[1, 1, 1, 1]",039_Happy
+List the 3 highest ages in the dataset.,"[233.0, 233.0, 233.0]",039_Happy
+Which are the highest 5 number of sentences?,"[69, 60, 58, 56, 53, 51]",039_Happy
+List the age of the 6 youngest individuals in the dataset.,"[2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0]",039_Happy
+Is it true that the youngest participant has met their match?,False,040_Speed
+Do all people who got a match have the same race as their partner?,False,040_Speed
+Are all participants who expected more than 5 matches male?,True,040_Speed
+Is the average age of participants who got a match higher than those who didn't?,False,040_Speed
+How many participants had a match?,1380,040_Speed
+What is the average age of participants who have the same race as their partner?,26.390236506973924,040_Speed
+What is the highest number of matches expected by any participant in the dataset?,18.0,040_Speed
+How many unique 'race' categories are there in the dataset?,5,040_Speed
+What is the most common race among participants who got a match?,european/caucasian-american,040_Speed
+What is the gender of the youngest participant in the dataset?,male,040_Speed
+What is the race of the participant with the highest number of expected matches?,other,040_Speed
+What is the wave of the participant with the youngest age?,5,040_Speed
+What are the top 3 waves among people who got a match?,"[21, 4, 11]",040_Speed
+What are the 5 most common races among people who expected more than 5 matches?,"['european/caucasian-american', 'asian/pacific islander/asian-american', 'black/african american', 'latino/hispanic american', 'other']",040_Speed
+What are the top 4 waves of people who have the same race as their partner?,"[15, 9, 21, 11]",040_Speed
+What are the top 2 genders among people who expected no match?,"['female', 'male']",040_Speed
+What are the top 5 ages of participants who got a match?,"[42.0, 42.0, 42.0, 42.0, 39.0]",040_Speed
+What are the 3 lowest numbers of matches expected by people who got a match?,"[0.0, 0.0, 0.0]",040_Speed
+What are the top 4 ages of people who have the same race as their partner?,"[55.0, 55.0, 55.0, 42.0]",040_Speed
+What are the 6 youngest ages of participants who expected no match?,"[18.0, 18.0, 18.0, 18.0, 18.0, 18.0]",040_Speed
+Are there any tweets with more than 10 retweets?,True,041_Airline
+Is there a negative sentiment tweet from 'United' airline?,True,041_Airline
+Are there any tweets categorized with 'Late Flight' as the negative reason?,True,041_Airline
+Are there any tweets from 'Eastern Time (US & Canada)' timezone with positive sentiment?,True,041_Airline
+How many unique user timezones are there in the dataset?,85,041_Airline
+"On average, what is the sentiment confidence of the tweets?",0.9001688524590163,041_Airline
+What's the maximum number of retweets a tweet has received?,44,041_Airline
+How many tweets are from 'Virgin America' airline?,504,041_Airline
+Which airline has the highest average sentiment confidence?,US Airways,041_Airline
+Which negative reason is most commonly associated with 'American' airline?,Customer Service Issue,041_Airline
+From which timezone is the tweet with the highest sentiment confidence?,Eastern Time (US & Canada),041_Airline
+Which airline has the most tweets with negative sentiment?,United,041_Airline
+Which are the top 3 airlines with the highest average sentiment confidence?,"['US Airways', 'American', 'United']",041_Airline
+List the 3 most common negative reasons in the dataset.,"['Customer Service Issue', 'Late Flight', 'Can't Tell']",041_Airline
+Which 3 user timezones have the most number of tweets?,"['Eastern Time (US & Canada)', 'Central Time (US & Canada)', 'Pacific Time (US & Canada)']",041_Airline
+List the 2 airlines with the least number of tweets in the dataset.,"['Virgin America', 'Delta']",041_Airline
+What are the top 4 tweet IDs with the lowest sentiment confidence?,"[570306133677760513, 570301031407624196, 570300817074462722, 570300767074181121]",041_Airline
+List the 3 highest retweet counts in the dataset.,"[44, 32, 31]",041_Airline
+What are the 2 lowest values for sentiment confidence?,"[0.335, 0.335]",041_Airline
+List the 6 highest sentiment confidence values.,"[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",041_Airline
+Is it true that the student with the highest number of absences is from a rural area?,True,042_Predict
+Are all students who are in a romantic relationship older than 17?,False,042_Predict
+Is the average final grade (G3) of students who consume a lot of alcohol (Dalc > 2) lower than those who don't?,True,042_Predict
+Do all students who have both parents at home (Pstatus = 'T') have more than 3 free time after school (freetime > 3)?,False,042_Predict
+How many students have their mother's education (Medu) level above 3?,131,042_Predict
+What is the average age of students who want to take higher education (higher = 'yes')?,16.634666666666668,042_Predict
+What is the highest number of absences among students?,75,042_Predict
+How many unique schools are there in the dataset?,2,042_Predict
+What is the most common mother's job among students who want to take higher education?,other,042_Predict
+What is the gender of the student with the highest final grade (G3)?,M,042_Predict
+What is the school of the student with the highest number of absences?,GP,042_Predict
+What is the family size of the student with the highest final grade (G3)?,GT3,042_Predict
+What are the top 3 reasons for choosing a school among students who want to take higher education?,"['course', 'home', 'reputation']",042_Predict
+What are the 5 most common mother's jobs among students with a final grade above 10?,"['other', 'services', 'teacher', 'health', 'at_home']",042_Predict
+What are the top 4 schools among students with absences above 10?,"['GP', 'MS']",042_Predict
+What are the top 2 family relations among students with a final grade below 10?,"[4, 5]",042_Predict
+What are the top 5 ages of students who want to take higher education?,"[16, 17, 15, 18, 19]",042_Predict
+What are the 3 lowest final grades of students who have more than 10 absences?,"[4, 14, 17]",042_Predict
+What are the top 4 ages of students whose mother's education level is above 3?,"[15, 16, 18, 17]",042_Predict
+What are the 6 lowest final grades of students who don't want to take higher education?,"[8, 10, 12, 9, 7, 13]",042_Predict
+Is it true that the oldest company (based on approval year) is from an urban (UrbanRural=1) area?,False,043_Predict
+Are all companies with more than 10 employees located in an urban (UrbanRural=1) area?,False,043_Predict
+"Are all companies with a default amount greater than $250,000 in the food sector?",False,043_Predict
+Is the average number of retained jobs higher for companies located in urban (UrbanRural=1) areas than those in rural (UrbanRural=0) areas?,True,043_Predict
+How many companies have a franchise code of 1?,57340,043_Predict
+What is the average disbursement gross for companies in the retail sector?,164636.4123068934,043_Predict
+What is the highest approval year in the dataset?,2010,043_Predict
+How many unique sectors are there in the dataset?,20,043_Predict
+What is the most common sector among companies with a franchise code of 1?,Retail trade,043_Predict
+What is the state of the company with the highest disbursement gross?,ME,043_Predict
+What is the bank for the company with the highest default amount?,COMMUNITY BANK & TRUST,043_Predict
+What is the sector of the company with the most number of employees?,Health care and social assistance,043_Predict
+What are the top 3 sectors among companies with a franchise code of 1?,"['Retail trade', 'Other services (except public administration)', 'Manufacturing']",043_Predict
+What are the 5 most common banks among companies with an approval year earlier than 2000?,"['WELLS FARGO BANK NATL ASSOC', 'BANK OF AMERICA NATL ASSOC', 'U.S. BANK NATIONAL ASSOCIATION', 'JPMORGAN CHASE BANK NATL ASSOC', 'PNC BANK, NATIONAL ASSOCIATION']",043_Predict
+"What are the top 4 states among companies with a disbursement gross greater than $1,000,000?","['CA', 'TX', 'FL', 'AZ']",043_Predict
+"What are the top 2 sectors among companies with a default amount greater than $500,000?","['Retail trade', 'Accommodation and food services']",043_Predict
+What are the top 5 approval years for companies in the retail sector?,"[2005, 2004, 2006, 2007, 2003]",043_Predict
+What are the 3 highest disbursement gross for companies with a franchise code of 1?,"[50000.0, 100000.0, 10000.0]",043_Predict
+What are the top 4 approval years for companies in the state of CA?,"[2007, 2004, 2006, 2003]",043_Predict
+What are the 6 highest default amounts among companies in the state of NY?,"[0.0, 50000.0, 25000.0, 100000.0, 35000.0, 10000.0]",043_Predict
+Is it true that the oldest movie (based on year) in the drama genre is from the USA?,False,044_IMDb
+"Are all movies from the USA, with more than 80 minutes duration in the drama genre, in English?",False,044_IMDb
+Are all movies with votes greater than 90 from the USA in English?,True,044_IMDb
+Is the average duration of English language movies from the USA longer than those from non-USA countries?,False,044_IMDb
+"How many movies from the USA, in the drama genre, have a metascore of 100?",6,044_IMDb
+"What is the average duration for movies in the drama genre, from the USA, in English?",96.07926963408374,044_IMDb
+What is the latest year for English language movies from the USA in the dataset?,2020.0,044_IMDb
+How many unique languages are there in the dataset for movies from the USA?,650,044_IMDb
+What is the most common genre among English language movies from the USA with a metascore of 100?,"Adventure, Family, Fantasy",044_IMDb
+What is the country of the English language movie with the longest duration?,Argentina,044_IMDb
+What is the language of the movie from the USA with the highest metascore?,English,044_IMDb
+What is the genre of the English language movie from the USA with the most votes?,Drama,044_IMDb
+What are the top 3 genres among English language movies from the USA with a metascore of 100?,"['Adventure, Family, Fantasy', 'Drama, Mystery', 'Drama, Romance, War']",044_IMDb
+What are the 5 most common countries among English language movies with a year earlier than 2000?,"['USA', 'UK', 'Canada', 'UK, USA', 'Australia']",044_IMDb
+What are the top 4 languages among movies from the USA with a duration greater than 180 minutes?,"['English', 'English, Spanish', 'English, Russian', 'English, Hungarian']",044_IMDb
+What are the top 2 genres among English language movies from the USA with a metascore greater than 90?,"['Drama', 'Crime, Drama']",044_IMDb
+What are the top 5 years for English language movies from the USA in the drama genre?,"[2017.0, 2016.0, 2015.0, 2013.0, 2018.0]",044_IMDb
+What are the 3 longest durations for English language movies from the USA with a metascore of 100?,"[102, 119, 112]",044_IMDb
+What are the four years with more English language movies from the USA?,"[2017.0, 2016.0, 2018.0, 2013.0]",044_IMDb
+Can you show the 6 highest metascores among English language movies from the USA?,"[49.0, 55.0, 57.0, 48.0, 54.0, 52.0]",044_IMDb
+Is it true that the song with the lowest popularity in the dataset is longer than 300000 ms?,True,045_Predict
+Did any song released in the year 2020 in the dataset achieve the maximum popularity?,False,045_Predict
+Does the song with the longest duration also have the highest energy?,False,045_Predict
+Does the song with the highest energy also have the highest popularity?,False,045_Predict
+How many unique artists are there in the dataset?,13056,045_Predict
+What's the average song duration in the dataset?,228998.0798095238,045_Predict
+What's the maximum popularity score in the dataset?,94,045_Predict
+How many songs were released in the year with the most releases?,489,045_Predict
+Who is the artist with the highest popularity score?,['Giveon'],045_Predict
+In which month was the most popular song released?,3.0,045_Predict
+What's the name of the longest song?,Monster Tunes Yearmix 2011 - Mixed by Mark Eteson,045_Predict
+What's the name of the song with the most energy?,Marathon (Mix Cut) - Simon O'Shine Mix,045_Predict
+What are the the 2 shortest songs in the dataset?,"['Rhapsody on a Theme of Paganini, Op. 43: Introduction - Allegro vivace', 'Intro']",045_Predict
+What are the names of the top 3 most popular songs?,"[Heartbreak Anniversary, Good Days, Paradise (feat. Dermot Kennedy)]",045_Predict
+What are the top 3 artists who released songs with the longest durations?,"['Mark Eteson', 'Various Artists', 'Serge Reggiani']",045_Predict
+What are the names of the top 2 songs with the most energy?,"[Marathon (Mix Cut) - Simon O'Shine Mix, Applause; Martha Tilton Returns to Stage - Live]",045_Predict
+What are the top 5 most popular scores?,"[0, 35, 23, 1, 26]",045_Predict
+What are the 3 longest song durations?,"[4792587.0, 4658245.0, 4585640.0]",045_Predict
+What are the 4 latest release years in the dataset?,"[2021, 2021, 2021, 2021]",045_Predict
+What are the top 3 energy scores in the dataset?,"[1.0, 1.0, 1.0]",045_Predict
+Is it true that the athlete with the lowest ID is older than 30 years?,True,046_120
+Did any athlete from the team with the most participants win two gold medals?,False,046_120
+Does the athlete with the highest weight also participate in the sport with the most athletes?,False,046_120
+Does the athlete with the highest height also have a medal?,False,046_120
+How many unique teams are there in the dataset?,230,046_120
+What's the average age of athletes in the dataset?,25.556898357297374,046_120
+What's the maximum weight of athletes in the dataset?,214.0,046_120
+How many athletes participated in the year with the most participants?,2536,046_120
+Who is the athlete with the highest weight?,Ricardo Blas Jr.,046_120
+In which city did the athlete with the highest height participate?,London,046_120
+What's the name of the athlete who participated in the most number of games?,Robert Tait McKenzie,046_120
+What's the sport of the athlete with the most medals?,Art Competitions,046_120
+What are the top 5 most common team names in the dataset?,"[United States, France, Great Britain, Italy, Germany]",046_120
+What are the names of the top 3 athletes with the highest weights?,"[Ricardo Blas Jr., Shinichi Shinohara, Emmanuel Yarborough]",046_120
+What are the 4 most common cities of participation?,"[London, Athina, Sydney, Atlanta]",046_120
+What are the names of the top 2 athletes who participated in the most number of games?,"[Robert Tait McKenzie, Heikki Ilmari Savolainen]",046_120
+What are the top five most common ages of athletes?,"[23.0, 24.0, 22.0, 25.0, 21.0]",046_120
+What are the three highest weights of athletes?,"[214.0, 198.0, 190.0]",046_120
+What are the 4 most common years of participation?,"[1992, 1988, 2000, 1996]",046_120
+What are the three most common heights of athletes?,"[180.0, 170.0, 178.0]",046_120
+Does the dataset contain customers who are under the age of 18?,False,047_Bank
+Are there any customers with a total transaction amount of zero?,False,047_Bank
+"Does the dataset include customers with a credit limit exceeding $50,000?",False,047_Bank
+Are there any customers in the dataset who are inactive for more than 12 months?,False,047_Bank
+What is the highest credit limit in the dataset?,34516.0,047_Bank
+What is the maximum total transaction amount recorded?,18484,047_Bank
+What is the largest total revolving balance in the dataset?,2517,047_Bank
+What is the highest customer age in the dataset?,73,047_Bank
+What is the most common level of education among the customers?,Graduate,047_Bank
+What is the most common income category of the customers?,Less than $40K,047_Bank
+Which gender is most represented among the customers?,F,047_Bank
+What is the most common attrition flag value?,0,047_Bank
+What are the top 3 most common education levels among the customers?,"['Graduate', 'High School', 'Unknown']",047_Bank
+Which are 4 most frequent income categories?,"['Less than $40K', '$40K - $60K', '$80K - $120K', '$60K - $80K']",047_Bank
+Which are the top 3 most frequent income categories?,"['Less than $40K', '$40K - $60K', '$80K - $120K']",047_Bank
+Which are the two most frequent income categories?,"['Less than $40K', '$40K - $60K']",047_Bank
+How old are the 5 oldest customers in the dataset?,"[73, 70, 68, 67, 67]",047_Bank
+What are the five customer IDs with the highest credit limit?,"[34516.0, 34516.0, 34516.0, 34516.0, 34516.0]",047_Bank
+Who are the 6 customers with the highest total transaction amount?,"[18484, 17744, 17634, 17498, 17437, 17350]",047_Bank
+Who are the six customer ids with the highest total revolving balance?,"[2517, 2517, 2517, 2517, 2517, 2517]",047_Bank
+"Are there any job positions available in 'New York, NY'?",True,048_Data
+Are there any job listings from companies founded before 1900?,True,048_Data
+Are there any job listings that require Python skills?,True,048_Data
+Is there a job listing for a 'Data Engineer' role?,True,048_Data
+How many unique job titles are listed?,264,048_Data
+"On average, how old are the companies that have job listings?",46.591644204851754,048_Data
+What's the highest rating a company has received?,5.0,048_Data
+How many job listings are there from 'Government' type of ownership?,15,048_Data
+Which job title has the highest average salary?,"Director II, Data Science - GRM Actuarial",048_Data
+Which state has the most number of job listings?, CA,048_Data
+From which sector is the job listing with the highest salary?,Insurance,048_Data
+Which company size has the most job listings?,1001 to 5000 employees,048_Data
+Which are the top 3 sectors with the most job listings?,"['Information Technology', 'Biotech & Pharmaceuticals', 'Business Services']",048_Data
+List the 4 most common industries in the dataset.,"['Biotech & Pharmaceuticals', 'Insurance Carriers', 'Computer Hardware & Software', 'IT Services']",048_Data
+Which 5 states have the most number of job listings?,"[' CA', ' MA', ' NY', ' VA', ' IL']",048_Data
+List the 3 company sizes with the least number of job listings.,"['-1', '1 to 50 employees', 'Unknown']",048_Data
+What are the top 4 average salaries for job titles in the dataset?,"[254.0, 232.5, 225.0, 205.0]",048_Data
+List the year the 3 oldest companies that have job listings were founded.,"[1744, 1781, 1781]",048_Data
+Which are the highest 3 ratings given?,"[5.0, 5.0, 5.0]",048_Data
+List the average salaries of the 6 most recent companies.,"[78.0, 88.5, 110.0, 40.5, 132.5, 20.5]",048_Data
+Are there any authors in the dataset who have more followers than people they are following?,True,049_Boris
+Is there any tweet in the dataset that has more replies<gx:number> than retweets<gx:number>?,True,049_Boris
+Are there any verified users who have tweeted in a language other than English?,True,049_Boris
+Does the dataset contain any tweets that include image links?,True,049_Boris
+How many unique authors are present in the dataset?,1,049_Boris
+What is the highest number of retweets<gx:number> a single tweet has received?,117386,049_Boris
+What is the average number of favorites per tweet?,5081.805590062112,049_Boris
+What's the total number of tweets from verified users?,3220,049_Boris
+Which author has the most tweets in the dataset?,3131144855,049_Boris
+Which language is most commonly used in the tweets?,en,049_Boris
+What is the most common source of tweets?,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",049_Boris
+"Which type of tweet (e.g., original, retweet, quote) is most common in the dataset?",original,049_Boris
+Who are the top three authors (by ID) with the most followers?,"[3131144855, 3131144855, 3131144855]",049_Boris
+What are the top five most frequently mentioned names in the tweets?,"['G7', 'foreignoffice', 'UN', 'Conservatives', 'COP26']",049_Boris
+List the top four most commonly used languages in the tweets.,"['en', 'und', 'fr', 'es']",049_Boris
+What are the highest three numbers of followers count present in the dataset?,"[3543402, 3543402, 3543402]",049_Boris
+What are the bottom four numbers of favorites count?,"[7, 7, 8, 9]",049_Boris
+List the top six numbers of retweets.,"[117386, 53527, 35698, 31449, 24824, 19982]",049_Boris
+What are the bottom five numbers of replies?,"[2, 2, 3, 3, 4]",049_Boris
+Is the most favorited author mainly communicating in Spanish?,True,050_ING
+Does the author with the longest name post mainly original content?,True,050_ING
+Is there an author who received no retweets for any of their posts?,True,050_ING
+Are there any posts that do not contain any links?,True,050_ING
+How many unique authors are in the dataset?,3943,050_ING
+What is the length of the longest post (based on the number of words)?,61,050_ING
+What is the total number of retweets received by all authors in the dataset?,1243,050_ING
+How many posts do not contain any mentions of other users?,3788,050_ING
+What is the name of the author with the most retweeted single tweet?,Lavincompae,050_ING
+What is the language of the most favorited post?,es,050_ING
+Who is the author of the post with the most words?,juan prin,050_ING
+"What type of post (original, reply, or other) is the most common in the dataset?",reply,050_ING
+Who are the authors of the top 3 most retweeted posts?,"['Lavincompae', '#NI UNA MENOS \xa0♐\xa0✊\xa0🚺', 'SFC The World']",050_ING
+What are the languages of the 5 least favorited posts?,"['es', 'es', 'es', 'es', 'es']",050_ING
+Who are the authors of the 4 shortest posts (based on the number of words)?,"['Correctorada', 'El Joker', 'Xenia Viladas', 'DrJaus \xa0🇪🇸']",050_ING
+What types of posts are the 6 most common in the dataset?,"['reply', 'original']",050_ING
+What are the retweet counts for the top 5 most favorited posts?,"[0, 0, 0, 0, 3]",050_ING
+What are the word counts of the 3 longest posts?,"[61, 60, 59]",050_ING
+What are the retweet counts of the 4 least favorited posts?,"[0, 0, 1, 0]",050_ING
+What are the word counts for the 6 shortest posts?,"[1, 1, 1, 1, 1, 1]",050_ING
+Is there a Pokémon named 'Pikachu' in the dataset?,True,051_Pokemon
+Are there any Pokémon with a total stat greater than 700?,True,051_Pokemon
+Are all Pokémon in the first generation legendary?,False,051_Pokemon
+Is there any Pokémon with a speed greater than 150?,True,051_Pokemon
+How many unique Pokémon types are there in the 'type1' column?,20,051_Pokemon
+What's the highest total stat value found in the dataset?,1125,051_Pokemon
+How many Pokémon are there in the third generation?,160,051_Pokemon
+What is the average attack stat for all Pokémon?,80.94,051_Pokemon
+What is the primary type of the Pokémon with the highest defense stat?,Poison,051_Pokemon
+Which Pokémon has the lowest speed stat?,Shuckle,051_Pokemon
+What primary type is the most common among legendary Pokémon?,Psychic,051_Pokemon
+Which Pokémon has the highest special attack?,Mega Mewtwo Y,051_Pokemon
+Name the top 3 Pokémon with the highest total stats.,"['Eternamax Eternatus', 'Mega Mewtwo X', 'Mega Mewtwo Y']",051_Pokemon
+Which 5 Pokémon have the lowest hp stats?,"['Shedinja', 'Diglett', 'Alolan Diglett', 'Magikarp', 'Pichu']",051_Pokemon
+Name the top 2 primary categories that have the most Pokémon.,"['Water', 'Normal']",051_Pokemon
+Which 6 Pokémon from the second generation have the highest attack stats?,"['Mega Heracross', 'Mega Tyranitar', 'Mega Scizor', 'Tyranitar', 'Scizor', 'Ursaring']",051_Pokemon
+What are the top 5 special defense stats in the dataset?,"[250, 230, 200, 160, 160]",051_Pokemon
+List the lowest 2 defense stats of legendary Pokémon.,"[20, 31]",051_Pokemon
+What are the 2 highest speed stats of Pokémon in the fourth generation?,"[135, 127]",051_Pokemon
+list the 6 lowest total stats of non-legendary Pokémon.,"[175, 180, 180, 185, 190, 194]",051_Pokemon
+Is the maximum level of Extraversion greater than the maximum level of Agreeableness?,True,052_Professional
+Is the profession with the highest Openness the same as the profession with the highest Conscientousness?,False,052_Professional
+Does the profession with the lowest Emotional_Range also have the lowest level of Conversation?,False,052_Professional
+Is the average level of Openness to Change higher than the average level of Hedonism?,True,052_Professional
+What is the maximum value of Self-enhancement across all professions?,0.7826336180787501,052_Professional
+How many professions have an Emotional_Range above 0.5?,1002,052_Professional
+What is the average Extraversion level for the profession with the highest number of records (n)?,0.373214039767641,052_Professional
+What is the minimum level of Self-transcendence?,0.0353641396193574,052_Professional
+What profession has the highest level of Conscientiousness?,Policy Officer,052_Professional
+What is the profession with the lowest level of Hedonism?,Governor,052_Professional
+Which profession has the highest Emotional_Range?,Mortgage Banker,052_Professional
+What is the profession with the highest number of records (n)?,Program Manager,052_Professional
+What are the top 3 professions with the highest Openness?,"['Book Publisher', 'Bureau Chief', 'Publisher']",052_Professional
+Which are the bottom 4 professions in terms of Agreeableness?,"['.Net Architect', 'Android Developer', 'Principal Engineer', 'Game Engineer']",052_Professional
+List the top 5 professions with the highest Conversation levels.,"['Director of Athletics', 'Recruiting Coordinator', 'Athletic Coordinator', 'Director of Personnel', 'Skills Trainer']",052_Professional
+Name the bottom 2 professions in terms of Self-enhancement.,"['U.S. Senator', 'Congressman']",052_Professional
+What are the top 3 values of Openness to Change across all professions?,"[0.7557249985959847, 0.7413189187628788, 0.7034528053640179]",052_Professional
+List the bottom 4 Emotional_Range values.,"[0.1652381569664056, 0.2005428064324122, 0.2215546116855247, 0.2506791678499942]",052_Professional
+What are the highest 5 levels of Extraversion?,"[0.9794365922809228, 0.9723660656030668, 0.954299437125917, 0.9362989453985364, 0.9307917067583288]",052_Professional
+Name the lowest 6 levels of Self-transcendence.,"[0.0353641396193574, 0.0355792960526332, 0.0399752446723049, 0.0573280662585624, 0.0591099063085338, 0.0592781792571762]",052_Professional
+Is there a patent containing the word 'communication' in the title?,True,053_Patents
+Are there patents associated with the organization 'IBM'?,True,053_Patents
+Is there a patent abstract that mentions 'software'?,True,053_Patents
+Are there patents of the 'design' type?,True,053_Patents
+How many unique organizations have patents listed?,3574,053_Patents
+"On average, how many claims do the patents have?",14.745974597459746,053_Patents
+What's the highest number of claims a patent has?,100,053_Patents
+How many patents are of 'utility' type?,8848,053_Patents
+Which organization has the patent with the highest number of claims?,Massachusetts Institute of Technology,053_Patents
+Which kind of patent is the most common?,B2,053_Patents
+In which language are the patents written?,en,053_Patents
+Which graphext cluster is the most common among the patents?,"member, portion, body, end",053_Patents
+Which are the top 3 organizations with the most patents? Use alphabetical order to break any ties.,"['International Business Machines Corporation', 'Samsung Electronics Co., Ltd.', 'Google Inc.']",053_Patents
+List the 2 most common types of patents in the dataset.,"['utility', 'design']",053_Patents
+Which 2 kinds of patents are the most prevalent?,"['B2', 'S1']",053_Patents
+List the 2 least common graphext clusters among the patents. If there is a tie go by reverse alphabetical order,"['habit, plant, foliage, flowers', 'soybean, plant, cultivar, soybean cultivar']",053_Patents
+What are the top 4 numbers of claims in the patents?,"[100, 96, 93, 88]",053_Patents
+List the 3 patents (by ID) with the most number of claims.,"[9479771.0, 9325365.0, 9323284.0]",053_Patents
+"Provide a list with the median number of claims for the B2 and S1 kinds separately. ""[16"," 1]""",053_Patents
+List the 3 most recent patents by their ID.,"[9479476.0, 9479477.0, 9479478.0]",053_Patents
+Has the author with the highest number of followers ever been verified?,True,054_Joe
+Is the author who has the most favourites also the one with the most retweets?,True,054_Joe
+Is the most mentioned user also the most retweeted mentioned user?,False,054_Joe
+Does the author with the most retweets also have the most replies?,True,054_Joe
+What is the maximum number of followers an author in the dataset has?,30308047,054_Joe
+"How many authors have tweets which have received more than 10,000 favourites?",1,054_Joe
+How many retweets does the most retweeted tweet have?,205169,054_Joe
+How many times has the most mentioned user been mentioned?,383,054_Joe
+Who is the author with the most followers?,Joe Biden,054_Joe
+Who is the author with the highest number of user favourites?,Joe Biden,054_Joe
+What is the name of the user who is most often named in the dataset?,Joe Biden,054_Joe
+Who is the author of the tweet with the most retweets?,Joe Biden,054_Joe
+Who are the top 3 authors with the most followers?,['Joe Biden'],054_Joe
+Who are the top 4 authors with the most favourites?,['Joe Biden'],054_Joe
+Who are the 4 users by name apart from the author who are mentioned the most often?,"[KamalaHarris, DrBiden, BarackObama, NRA]",054_Joe
+Who are the top 2 authors of the tweets with the most retweets?,['Joe Biden''],054_Joe
+What are the top 3 numbers of followers in the dataset?,"[30308047, 30308047, 30308045]",054_Joe
+What are the top 3 numbers of favourites a tweet in the dataset has?,"[889245, 885249, 592545]",054_Joe
+What are the 5 highest unique number of times a user is mentioned? Exclude empty references.,"[16, 10, 6, 5, 5]",054_Joe
+What are the 2 highest numbers of retweets a tweet in the dataset has?,"[205169, 101314]",054_Joe
+Is the borrower with the highest loan amount also the one with the longest loan duration?,False,055_German
+Does the borrower with the maximum number of existing loans also have the highest loan amount?,False,055_German
+Does the borrower with the longest loan duration also have the maximum number of existing loans?,False,055_German
+Does the oldest borrower also have the highest loan amount?,False,055_German
+What is the highest loan amount in the dataset?,18424,055_German
+How many borrowers have more than 1 existing loan?,367,055_German
+What is the longest loan duration in the dataset?,72,055_German
+How many borrowers are older than 50?,113,055_German
+What is the most common purpose of loans?,Radio/TV,055_German
+What is the most common job category for borrowers?,Skilled,055_German
+What is the most common credit history category for borrowers?,Existing Credits Paid Back Duly Till Now,055_German
+What is the most common savings account status for borrowers?,Less than 100 DM,055_German
+What are the top 3 jobs of borrowers with the highest loan amount?,"['Highly Skilled', 'Skilled', 'Highly Skilled']",055_German
+What are the top 4 jobs of borrowers with the longest loan duration?,"['Skilled', 'Skilled', 'Skilled', 'Unskilled - Resident']",055_German
+What are the 5 jobs of borrowers with the maximum number of existing loans?,"['Skilled', 'Skilled', 'Unskilled - Resident', 'Highly Skilled', 'Skilled']",055_German
+What are the jobs of the oldest 2 borrowers?,"['Highly Skilled', 'Highly Skilled']",055_German
+What are the top 3 loan amounts in the dataset?,"[18424, 15945, 15857]",055_German
+What are the top 4 loan durations in the dataset?,"[72, 60, 60, 60]",055_German
+What are the 3 maximum numbers of existing loans among borrowers?,"[4, 4, 4]",055_German
+What are the ages of the top 2 oldest borrowers?,"[75, 75]",055_German
+Are there any foods with zero calories?,False,056_Emoji
+Do all foods contain sugar?,False,056_Emoji
+Are there any foods that contain no fat at all?,True,056_Emoji
+Are there foods that do not contain protein?,True,056_Emoji
+How many foods have more than 500 kcal?,0,056_Emoji
+What is the average amount of total fat (in grams) across all foods?,0.08465,056_Emoji
+How many foods have a sodium content of more than 1 gram?,18,056_Emoji
+What's the highest amount of protein (in grams) found in a food item?,0.2748,056_Emoji
+What food has the highest calorie content?,bacon,056_Emoji
+Which food contains the most sugar?,honey,056_Emoji
+What is the food with the least amount of total fat?,honey,056_Emoji
+Which food has the highest amount of protein?,beef,056_Emoji
+List the top 5 foods with the most calories.,"['bacon', 'peanuts', 'chocolate bar', 'popcorn', 'cookie']",056_Emoji
+Identify the top 3 foods with the least amount of sugar.,"['chestnut', 'pancakes', 'cheese']",056_Emoji
+Enumerate the 4 foods with the most total fat.,"['bacon', 'peanuts', 'cheese', 'popcorn']",056_Emoji
+Name the 6 foods with the least amount of protein.,"['candy', 'black tea', 'bacon', 'champagne', 'red wine', 'red apple']",056_Emoji
+List the 5 highest calorie counts found in the dataset.,"[8.98, 5.67, 5.18, 5.0, 4.97]",056_Emoji
+What are the 3 lowest amounts of sugar found among the foods?,"[0.0, 0.0, 0.0]",056_Emoji
+Enumerate the 4 highest amounts of total fat found in the foods.,"[0.995, 0.4924, 0.3099, 0.281]",056_Emoji
+What are the top 6 lowest amounts of protein found in the dataset?,"[0.0, 0.0, 0.0007, 0.0007, 0.0007, 0.002]",056_Emoji
+Are there any respondents who say they didn't complete primary education?,True,057_Spain
+Are all respondents interested in politics?,False,057_Spain
+Did any respondent indicate that they will not vote?,True,057_Spain
+Did any respondent place themselves at the extreme right of the Left-Right economic values axis?,True,057_Spain
+How many respondents placed themselves at 10 on the Progressive-Conservative economic values axis?,372,057_Spain
+What is the average age of the respondents?,37.420120593188116,057_Spain
+How many respondents think it should be more difficult for companies to lay off workers?,10344,057_Spain
+What's the maximum age among the respondents who prefer not to disclose their gender?,105.0,057_Spain
+Which is the most common vote intention among respondents?,[Ciudadanos],057_Spain
+What is the most common reason for voting given by respondents?,The party ideas are close to my own,057_Spain
+Which is the most common party identification among respondents?,Ciudadanos,057_Spain
+What is the most common first language among respondents?,Castellano,057_Spain
+List the top 5 most common vote intentions among respondents.,"['[Ciudadanos]', '[]', '[I am undeceided]', '[Podemos]', '[PP]']",057_Spain
+Identify the top 3 most common reasons for voting among respondents.,"['The party ideas are close to my own', 'The party is the most competent', 'I prefer not to say']",057_Spain
+Enumerate the top 3 most common party identifications among respondents.,"['Ciudadanos', 'PP', 'I prefer not to say']",057_Spain
+Name the top 3 most common education levels.,"['University degree', 'Postgraduate degree', 'Technical/Vocational education']",057_Spain
+List the top 3 most common ages among respondents.,"[38.0, 23.0, 39.0]",057_Spain
+What are the top 3 most common positions on the Left-Right economic values axis?,"[5.0, 3.0, 6.0]",057_Spain
+Enumerate the top 4 most common positions on the Progressive-Conservative economic values axis.,"[5.0, 3.0, 4.0, 0.0]",057_Spain
+What are the top 2 most common positions on the 'Constitutional organisation of the country (More Descentralization)' scale?,"[2.0, 3.0]",057_Spain
+Are there survey participants who are not registered to vote?,True,058_US
+Are there any respondents who participated in the 2016 Presidential election (four years ago) but are not planning to do so in the upcoming election?,True,058_US
+Do we have any respondents in the dataset who didn't participate in the 2016 Presidential election (four years ago) but intend to do so in the upcoming election?,True,058_US
+Do we have respondents who have shifted their voting preference from the 2016 election (four years ago) to the upcoming one?,True,058_US
+How many respondents in the survey are eligible to vote?,1315,058_US
+What is the count of respondents who are most likely to vote for Biden in the upcoming day of the election?,799,058_US
+How many respondents have a high school degree or less as their highest level of education?,0,058_US
+How many respondents are from the region adjacent to the South Atlantic Ocean?,774,058_US
+What is the most frequent age group among the respondents?,65+,058_US
+Who is the preferred choice among the respondents for the upcoming election?,Donald Trump (Republican),058_US
+What is the most commonly achieved educational level among the respondents?,"Some college, no degree",058_US
+Which geographical division has the greatest representation among the respondents? If there is a tie solve it by reverse alphabetical order. ,South Atlantic,058_US
+Identify the top 6 states with the greatest number of respondents.,"['CA', 'TX', 'NY', 'FL', 'GA', 'PA']",058_US
+Enumerate the 2 most common professions among the respondents. If two or more have the same number sort them out by alphabetical order.,"['Other', 'Healthcare']",058_US
+Identify the top 2 ethnic groups with the most representation among the respondents.,"['White (not Hispanic, Latino or Spanish origin)', 'Black or African American (not Hispanic, Latino or Spanish origin)']",058_US
+Enumerate the top 6 most represented age groups among the respondents.,"['65+', '55-64', '45-54', '35-44', '18-24', '25-34']",058_US
+Identify the highest 3 unique county codes present in the dataset.,"[56031, 56025, 56021]",058_US
+Enumerate the highest 4 unique weight values in the dataset.,"[12.25830409560021, 11.12470053778552, 10.76484201273817, 9.469101617885023]",058_US
+List the top 4 urban/rural categories (using NCHS codes) with the greatest number of respondents.,"[1, 2, 3, 4]",058_US
+Enumerate the 2 most common likelihood values among the respondents.,"[10.0, 11.0]",058_US
+Is there a car model named 'Golf' listed?,True,059_Second
+Are there cars associated with the dealer 'Autos Raymara'?,True,059_Second
+Is there a car version that mentions 'BMW'?,True,059_Second
+Are there cars with a 'Manual' shift?,True,059_Second
+How many unique car models are listed?,940,059_Second
+"On average, how many photos are provided for the cars?",16.19912,059_Second
+What's the highest price a car is listed for?,549900,059_Second
+How many cars are from the year 2020?,4237,059_Second
+Which dealer has the car with the highest price listed?,Supergarage,059_Second
+Which car maker is the most common? If there is a tie then use alphabetical order.,VOLKSWAGEN,059_Second
+What type of fuel is the most common for the cars?,Diésel,059_Second
+In which province are the most cars located?, Madrid,059_Second
+Which are the 3 provinces with the most car listings? If there is a tie then use reverse alphabetical order.,"['Madrid', 'Barcelona', 'Valencia']",059_Second
+List the 3 most common car colors in the dataset.,"['Blanco', 'Gris / Plata', 'Negro']",059_Second
+Which 5 car makes are the most prevalent?,"['VOLKSWAGEN', 'BMW', 'MERCEDES-BENZ', 'AUDI', 'PEUGEOT']",059_Second
+List the 2 least common fuels used in the cars.,"['Gas natural (CNG)', 'Gas licuado (GLP)']",059_Second
+What are the 4 most common years of the cars?,"[2016.0, 2017.0, 2019.0, 2020.0]",059_Second
+List the 3 highest mileages present.,"[5000000, 4000006, 3500000]",059_Second
+What are the 5 highest amount of pictures associated?,"[54, 54, 54, 54, 54]",059_Second
+List the 6 highest power values.,"[800.0, 800.0, 796.0, 772.0, 720.0, 720.0]",059_Second
+Are all transactions IDs unique?,False,060_Bakery
+Is there any transaction that took place during the night?,True,060_Bakery
+Do all items have transactions recorded on weekdays?,False,060_Bakery
+Are there any transactions recorded in the evening on weekends?,True,060_Bakery
+How many unique items are there in the dataset?,94,060_Bakery
+On how many different days were transactions recorded?,159,060_Bakery
+What's the highest transaction number?,9684,060_Bakery
+How many different IDs are there in the transactions that were made during the afternoon?,2478,060_Bakery
+Which day period has the highest number of unique transaction IDs?,morning,060_Bakery
+"On weekdays, what's the most commonly bought item?",Coffee,060_Bakery
+What's the least popular item bought during weekdays?,Adjustment,060_Bakery
+"During which period of the day is Brownie"" most frequently bought?""", afternoon,060_Bakery
+List the top 3 items most frequently bought in the morning.,"['Coffee', 'Bread', 'Pastry']",060_Bakery
+Name the top 2 most purchased during the afternoon.,"['Coffee', 'Bread']",060_Bakery
+Identify the top 2 items sold on weekends. If a tie then sort alphabetical.,"['Coffee', 'Bread']",060_Bakery
+What are the 4 items that were bought two times in the evening?,"['Art Tray', 'Mighty Protein', 'Mortimer', 'Vegan mincepie']",060_Bakery
+Which are the 4 transaction numbers with the most items bought?,"[6474, 6716, 6279, 6412]",060_Bakery
+Identify the highest 5 transaction numbers.,"[9680, 9681, 9682, 9683, 9684]",060_Bakery
+List the highest 4 transaction numbers during which 'Bread' was purchased.,"[9680, 9679, 9673, 9671]",060_Bakery
+Name the lowest 2 transaction numbers where purchases were made in the morning.,"[1, 2]",060_Bakery
+Are all the reviews from Australia positive (rating > 3)?,False,061_Disneyland
+Is Disneyland_HongKong the most reviewed branch?,False,061_Disneyland
+Are there any reviews with a rating of 1?,True,061_Disneyland
+Does every reviewer location have at least one review with a rating of 5?,False,061_Disneyland
+How many unique reviewer locations are there?,162,061_Disneyland
+What is the average rating for Disneyland_HongKong?,4.204158004158004,061_Disneyland
+What is the maximum review ID? If there is a tie then pick the highest ID.,670801367,061_Disneyland
+How many reviews were made in 2019?,786,061_Disneyland
+What is the most common reviewer location?,United States,061_Disneyland
+What is the branch with the lowest average rating?,Disneyland_Paris,061_Disneyland
+In which date was the first most negative review (rating=1) made?,2010-12,061_Disneyland
+What is the reviewer location with the highest average rating? If there is a tie then pick the first one alphabetically,Armenia,061_Disneyland
+What are the top 3 reviewer locations with the most reviews?,"['United States', 'United Kingdom', 'Australia']",061_Disneyland
+What are the bottom 2 branches in terms of average rating?,"['Disneyland_Paris', 'Disneyland_HongKong']",061_Disneyland
+What are the 4 dates with the most reviews? Include those missing.,"['missing', '2015-8', '2015-7', '2015-12']",061_Disneyland
+What are the bottom 3 reviewer locations in terms of average rating?,"['Turks and Caicos Islands', 'South Sudan', 'Suriname']",061_Disneyland
+What are the highest 5 review IDs in terms of rating? If you find a tie then keep the highest IDs.,"[670801367, 670760708, 670721950, 670606796, 670585330]",061_Disneyland
+What are the lowest 4 review IDs in terms of rating? If there are more than four with the same rating keep the lowest IDs,"[1534364, 2718239, 2831747, 2945119]",061_Disneyland
+What are the top 3 (not necessarily unique) ratings given by reviewers from Australia?,"[5, 5, 5]",061_Disneyland
+What are the lowest 2 ratings given for Disneyland_HongKong?,"[1, 1]",061_Disneyland
+Are all the tweets in English?,False,062_Trump
+Has the author ever been retweeted?,True,062_Trump
+Are there any tweets with more than 10000 retweets?,True,062_Trump
+Have any of the tweets been favorited more than 50000 times?,True,062_Trump
+How many unique authors are there?,1,062_Trump
+What is the average number of retweets?,8774.52044683822,062_Trump
+What is the maximum number of favorites received for a single tweet?,589793,062_Trump
+How many tweets were posted in 2018?,2891,062_Trump
+What is the most common author name?,Donald J. Trump,062_Trump
+What is the tweet with the most favorites?,Such a beautiful and important evening! The forgotten man and woman will never be forgotten again. We will all come together as never before,062_Trump
+In which language is the tweet with the most retweets written?,und,062_Trump
+What is the most common language of the tweets?,en,062_Trump
+What are the top 3 author handlers with the most tweets?,['realDonaldTrump'],062_Trump
+What are the bottom 2 languages in terms of tweet count? If there are more than two give priority to those starting with the letter p,"['pl', 'pt']",062_Trump
+What are the top 4 mentioned names in the tweets?,"['realDonaldTrump', 'FoxNews', 'CNN', 'foxandfriends']",062_Trump
+What are the bottom 3 author names in terms of tweet count?,['Donald J. Trump'],062_Trump
+What are the top 5 tweet IDs in terms of retweet count?,"[881503147168071680, 795954831718498305, 929511061954297857, 796315640307060738, 948355557022420992]",062_Trump
+What are the bottom 4 tweet IDs in terms of favorite count?,"[591222909626114050, 591412084895838208, 586751374286721024, 575589231160127489]",062_Trump
+What are the top 6 favorite counts of the tweets?,"[589793, 589750, 557779, 539249, 476457, 376626]",062_Trump
+What are the bottom 3 retweet counts of the tweets?,"[1, 1, 2]",062_Trump
+Are there any organizations in the dataset?,False,063_Influencers
+Are there any individuals (non-organizations) in the dataset?,True,063_Influencers
+Do all entities have a picture?,True,063_Influencers
+Are there any entities with a weight greater than 500?,True,063_Influencers
+How many unique communities are there?,9,063_Influencers
+What is the average page rank norm?,0.08848033260794509,063_Influencers
+What is the maximum weight of an entity?,770.5,063_Influencers
+How many entities have a community identifier of 16744206?,651,063_Influencers
+What is the most common name?,Christophe Viau,063_Influencers
+Which entity has the highest page rank norm?,Mike Bostock,063_Influencers
+What is the picture URL of the entity with the maximum weight?,https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/457/thumb/Saw-whet_Owl_10_normal.jpg?1517502050,063_Influencers
+Which entity has the highest y-coordinate?,The Gibson Project,063_Influencers
+What are the top 3 entity names with the highest weights?,"['Lynn Cherny', 'Alberto Cairo', 'Sinan Aral']",063_Influencers
+What are the bottom 2 entities in terms of page rank norm?,"['LIFE', 'New Options Project']",063_Influencers
+What are the top 4 entities with the highest x-coordinates?,"['Detective.io', 'The Thrust', 'Open Budgets', 'NewsFuturist']",063_Influencers
+What are the bottom 3 entities in terms of y-coordinates?,"['digital PR cat', 'Ismail Onur Filiz', 'Dave Golland']",063_Influencers
+What are the top 5 entity IDs in terms of weight?,"[568, 423, 6392, 4548, 579]",063_Influencers
+What are the bottom 4 entity IDs in terms of page rank norm?,"[177, 240, 294, 369]",063_Influencers
+What are the top 6 page rank norms of the entities?,"[1.0, 0.6029751067034804, 0.5666707687637932, 0.5202348027491394, 0.5110606617858531, 0.5081183103684572]",063_Influencers
+What are the bottom 3 weights of the entities?,"[1.0, 1.0, 1.0]",063_Influencers
+Are there any animals with feathers in the dataset?,True,064_Clustering
+Are there any venomous animals in the dataset?,True,064_Clustering
+Do all animals breathe?,False,064_Clustering
+Are there any domesticated animals in the dataset?,True,064_Clustering
+How many unique types of animals are there?,7,064_Clustering
+What is the average number of legs?,2.8415841584158414,064_Clustering
+What is the maximum number of legs an animal has?,8,064_Clustering
+How many animals are there with 2 legs?,27,064_Clustering
+What is the most common class type?,1,064_Clustering
+What is the name of the first animal with 8 legs?,octopus,064_Clustering
+What is the class type of the animals with the most legs?,7,064_Clustering
+What is the name of the first animal in the dataset that is venomous?,frog,064_Clustering
+What are the top 3 animal names with the most legs? If there are more than two with the lowest number go with alphabetical order,"['octopus', 'scorpion', 'crayfish']",064_Clustering
+What are the bottom 2 animal names in terms of the number of legs? If there are more than two with the lowest number go with alphabetical order,"['bass', 'carp']",064_Clustering
+What are the most common 4 class types with the most animals?,"[1, 2, 4, 7]",064_Clustering
+What are the least common 3 class types with the least animals?,"[5, 3, 6]",064_Clustering
+What are the most common 5 class types with the most combined total legs?,"[1, 6, 2, 7, 5]",064_Clustering
+What are the bottom 4 class types with the least combined total legs?,"[4, 3, 5, 7]",064_Clustering
+What are the most common 4 numbers of legs that animals have?,"[4, 2, 0, 6]",064_Clustering
+What are the least common 3 numbers of legs that animals have?,"[5, 8, 6]",064_Clustering
+Are all the quantities greater than 0?,False,065_RFM
+Are all the unit prices greater than 0?,False,065_RFM
+Are there any missing customer IDs?,True,065_RFM
+Are there any transactions from the United Kingdom?,True,065_RFM
+How many unique stock codes are there?,4070,065_RFM
+What is the average unit price?,4.611113626088513,065_RFM
+What is the maximum quantity ordered in a single transaction?,80995,065_RFM
+How many transactions were made in the United Kingdom?,495478,065_RFM
+Which country made the most transactions?,United Kingdom,065_RFM
+What is the description of the item with the highest unit price?,Manual,065_RFM
+What is the description of the item with the highest quantity ordered?,"PAPER CRAFT , LITTLE BIRDIE",065_RFM
+Which country does the customer with the lowest ID come from?,United Kingdom,065_RFM
+What are the descriptions of the 3 items with the highest quantities ordered?,"['PAPER CRAFT , LITTLE BIRDIE', 'MEDIUM CERAMIC TOP STORAGE JAR', 'ASSTD DESIGN 3D PAPER STICKERS']",065_RFM
+What are the descriptions of the 2 items with the lowest quantities ordered? If there is a tie then solve it with the alphabetical order of descriptions.,"['PAPER CRAFT , LITTLE BIRDIE', 'MEDIUM CERAMIC TOP STORAGE JAR']",065_RFM
+Which 2 countries made the most transactions?,"['United Kingdom', 'Germany']",065_RFM
+Which 2 countries made the least transactions?,"['Saudi Arabia', 'Bahrain']",065_RFM
+What are the invoice numbers of the top 5 transactions with the highest quantities ordered?,"['581483', '541431', '578841', '542504', '573008']",065_RFM
+What are the stock codes of the bottom 5 transactions with the lowest quantities ordered? If there is a tie go with numerical order.,"[23843, 23166, 23005, 23005, 84347]",065_RFM
+What are the four most commonly ordered quantities?,"[1, 2, 12, 6]",065_RFM
+What are the times the two most common descriptions are repeated?,"[2369, 2200]",065_RFM
